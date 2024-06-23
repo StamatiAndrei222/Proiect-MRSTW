@@ -1,0 +1,75 @@
+﻿
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Fluently</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <link rel="stylesheet" href="https://www.w3schools.com/lib/w3-theme-black.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body id="myPage">
+
+    <!-- Sidebar on click -->
+    <nav class="w3-sidebar w3-bar-block w3-white w3-card w3-animate-left w3-xxlarge" style="display:none;z-index:2" id="mySidebar">
+        @Html.Partial("_Sidebar")
+    </nav>
+
+    <!-- Navbar -->
+    <div class="navbar">
+        @Html.Partial("_Navbar")
+    </div>
+
+    @RenderBody()
+
+    <!-- Image Header -->
+    <div class="w3-display-container w3-animate-opacity">
+        @Html.Partial("_Imageheader")
+    </div>
+
+    <!-- Modal -->
+    <div id="id01" class="w3-modal">
+        @Html.Partial("_Modal")
+    </div>
+
+    <!-- Team Container -->
+    <div class="w3-container w3-padding-64 w3-center" id="team">
+        @Html.Partial("_Teamcontainer")
+    </div>
+    <!-- Work Row -->
+    <div class="w3-row-padding w3-padding-64 w3-theme-l1" id="work">
+        @Html.Partial("_Workrow")
+    </div>
+
+    <!-- Container -->
+    <div class="w3-container" style="position:relative">
+        @Html.Partial("_Container")
+    </div>
+
+    <!-- Pricing Row -->
+    <div class="w3-row-padding w3-center w3-padding-64" id="pricing">
+        @Html.Partial("_Pricingrow")
+    </div>
+
+    <!-- Contact Container -->
+    <div class="w3-container w3-padding-64 w3-theme-l5" id="contact">
+        @Html.Partial("_Contactcontainer")
+    </div>
+
+    <!-- Image of location/map -->
+    <img src="/w3images/map.jpg" class="w3-image w3-greyscale-min" style="width:100%;">
+
+    <!-- Footer -->
+    <footer class="w3-container w3-padding-32 w3-theme-d1 w3-center">
+        @Html.Partial("_Footer")
+    </footer>
+
+    <script>
+        // Script for side navigation
+        function w3_open()
+         @Html.Partial("_Sidenavigation")
+    </script>
+
+</body>
+</html>
