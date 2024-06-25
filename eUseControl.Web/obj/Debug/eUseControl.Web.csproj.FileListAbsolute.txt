@@ -58,3 +58,7 @@ C:\Users\User\Documents\Anul 2\ProiectGitDesktop\Proiect-MRSTW\eUseControl.Web\o
 C:\Users\User\Documents\Anul 2\ProiectGitDesktop\Proiect-MRSTW\eUseControl.Web\obj\Debug\eUseControl.Web.csproj.CopyComplete
 C:\Users\User\Documents\Anul 2\ProiectGitDesktop\Proiect-MRSTW\eUseControl.Web\obj\Debug\eUseControl.Web.dll
 C:\Users\User\Documents\Anul 2\ProiectGitDesktop\Proiect-MRSTW\eUseControl.Web\obj\Debug\eUseControl.Web.pdb
+D:\uni an 2\sem 2\ProiectGit\eUseControl.Web\obj\Debug\eUseControl.Web.csproj.AssemblyReference.cache
+D:\uni an 2\sem 2\ProiectGit\eUseControl.Web\obj\Debug\eUseControl.Web.csproj.CoreCompileInputs.cache
+D:\uni an 2\sem 2\ProiectGit\eUseControl.Web\obj\Debug\eUseControl.Web.dll
+D:\uni an 2\sem 2\ProiectGit\eUseControl.Web\obj\Debug\eUseControl.Web.pdb

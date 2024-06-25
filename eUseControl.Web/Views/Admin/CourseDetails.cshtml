@@ -1,0 +1,182 @@
+﻿@model EnglishCourses.Web.Models.ViewModelsAdmin.AdminCourseView
+
+@{
+    ViewBag.Title = "Course Details";
+    Layout = "~/Views/Shared/AdminLayout/_AdminLayout.cshtml";
+}
+
+<!-- Main Content Section -->
+<section id="main-content" class="">
+    <section class="wrapper main-wrapper row" style="">
+        <div class="col-12">
+            <div class="page-title">
+                <div class="float-left">
+                    <h1 class="title">Course Details</h1>
+                </div>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+        <!-- Main Content Area Starts -->
+        <div class="col-lg-12">
+            <section class="box">
+                <header class="panel_header">
+                    <h2 class="title float-left">@Model.Course.Title</h2>
+                    <div class="actions panel_actions float-right">
+                        <a class="box_toggle fa fa-chevron-down"></a>
+                        <a class="box_setting fa fa-cog" data-toggle="modal" href="#section-settings"></a>
+                        <a class="box_close fa fa-times"></a>
+                    </div>
+                </header>
+                <div class="content-body">
+                    <div class="row">
+                        <div class="col-lg-12 col-sm-12 col-xs-12">
+                            @Html.ValidationSummary(true)
+                            @using (Html.BeginForm("EditCourse", "Admin", FormMethod.Post, new { enctype = "multipart/form-data" }))
+                            {
+                                @Html.AntiForgeryToken()
+                                @Html.HiddenFor(model => model.Course.Id)
+                            <div class="form-group">
+
+                                <div class="col-md-12">
+                                    @Html.LabelFor(model => model.Course.DisplayImage, htmlAttributes: new { @class = "control-label" })
+                                    <input type="file" name="DisplayImage" id="DisplayImage" class="form-control" />
+                                </div>
+
+                                <div class="col-md-12">
+                                    @Html.LabelFor(model => model.Course.Title, htmlAttributes: new { @class = "control-label" })
+                                    @Html.TextAreaFor(model => model.Course.Title, new
+                                    {
+                                        @class = "form-control",
+                                        placeholder = "Course Title",
+                                        required = "true"
+                                    })
+                                    @Html.ValidationMessageFor(model => model.Course.Title, "", new { @class = "text-danger" })
+                                </div>
+                                <div class="col-md-12">
+                                    @Html.LabelFor(model => model.Course.Description, htmlAttributes: new { @class = "control-label" })
+                                    @Html.TextAreaFor(model => model.Course.Description, new
+                                    {
+                                        @class = "form-control",
+                                        placeholder = "Course Description",
+                                        rows = "15",
+                                        required = "true"
+                                    })
+                                    @Html.ValidationMessageFor(model => model.Course.Description, "", new { @class = "text-danger" })
+                                </div>
+                                <div class="col-md-12">
+                                    @Html.LabelFor(model => model.Course.Category, htmlAttributes: new { @class = "control-label" })
+                                    @Html.DropDownListFor(model => model.Course.Category, Enum.GetValues(typeof(EnglishCourses.Domain.Enums.CourseCategory)).Cast<EnglishCourses.Domain.Enums.CourseCategory>().Select(x => new SelectListItem
+                                    {
+                                        Text = x.ToString(),
+                                        Value = ((int)x).ToString()
+                                    }), "Select Category", new
+                                    {
+                                        @class = "form-control",
+                                        required = true
+                                    })
+                                    @Html.ValidationMessageFor(model => model.Course.Category, "", new { @class = "text-danger" })
+                                </div>
+                                <div class="col-md-12">
+                                    @Html.LabelFor(model => model.Course.TeacherName, htmlAttributes: new { @class = "control-label" })
+                                    @Html.TextAreaFor(model => model.Course.TeacherName, new
+                                    {
+                                        @class = "form-control",
+                                        placeholder = "Course Teacher",
+                                        required = "true"
+                                    })
+                                    @Html.ValidationMessageFor(model => model.Course.TeacherName, "", new { @class = "text-danger" })
+                                </div>
+                            </div>
+
+                                <div class="form-group">
+                                    <div class="col-md-offset-2 col-md-10">
+                                        <input type="submit" value="Save" class="btn btn-default" />
+                                        <a href="@Url.Action("Courses", "Admin")" class="btn btn-success btn-sm float-right">Back</a>
+                                    </div>
+                                </div>
+                            }
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+        <!-- Main Content Area Ends -->
+    </section>
+</section>
+
+<!-- Chapters Section -->
+<section id="main-content" class="">
+    <section class="wrapper main-wrapper row" style="">
+        <div class="col-12">
+            <div class="page-title">
+                <div class="float-left">
+                    <h2 class="title">Chapters</h2>
+                </div>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+        <!-- Main Content Area Starts -->
+        <div class="col-lg-12">
+            <section class="box">
+                <div class="content-body">
+                    <a href="@Url.Action("AddChapter", "Admin", new { courseId = Model.Course.Id })" class="btn btn-success mb-3">Add New Chapter</a>
+                    <table class="table table-striped">
+                        <thead>
+                            <tr>
+                                <th>Title</th>
+                                <th>Actions</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @if (Model.Chapters != null && Model.Chapters.Any())
+                            {
+                                foreach (var chapter in Model.Chapters)
+                                {
+                                    <tr data-chapter-id="@chapter.Id" data-course-id="@Model.Course.Id">
+                                        <td>@chapter.Title</td>
+                                        <td>
+                                            <a href="@Url.Action("EditChapter", "Admin", new { chapterId = chapter.Id, courseId = Model.Course.Id })" class="btn btn-primary">View</a>
+                                            <button class="btn btn-danger delete-chapter">Delete</button>
+                                        </td>
+                                    </tr>
+                                }
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </section>
+        </div>
+        <!-- Main Content Area Ends -->
+    </section>
+</section>
+
+@section Scripts {
+    <script>
+        $(document).ready(function() {
+            $('.delete-chapter').on('click', function() {
+                var button = $(this);
+                var chapterId = button.closest('tr').data('chapter-id');
+                var courseId = button.closest('tr').data('course-id');
+
+                if (confirm('Are you sure you want to delete this chapter?')) {
+                    $.ajax({
+                        url: '@Url.Action("DeleteChapter", "Admin")',
+                        type: 'POST',
+                        data: { chapterId: chapterId, courseId: courseId },
+                        success: function(response) {
+                            if (response.success) {
+                                window.location.reload();
+                                alert('Chapter deleted successfully.');
+                            } else {
+                                alert('Error: ' + response.message);
+                            }
+                        },
+                        error: function() {
+                            alert('An error occurred while deleting the chapter.');
+                        }
+                    });
+                }
+            });
+        });
+    </script>
+}

@@ -1,0 +1,39 @@
+﻿@using System.Web.Optimization;
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+    <meta charset="utf-8" />
+    <title>Complete Admin : University</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <meta content="" name="description" />
+    <meta content="" name="author" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    <link rel="stylesheet" href="~/Templates/Admin/assets/fonts/font-awesome/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <link rel="shortcut icon" href="@Url.Content("~/Templates/Admin/assets/images/favicon.png")" type="image/x-icon" />    <!-- Favicon -->
+    <link rel="apple-touch-icon-precomposed" href="@Url.Content("~/Templates/Admin/assets/images/apple-touch-icon-57-precomposed.png")" type="text/css" media="screen">    <!-- For iPhone -->
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="@Url.Content("~/Templates/Admin/assets/images/apple-touch-icon-114-precomposed.png")" type="text/css" media="screen">    <!-- For iPhone 4 Retina display -->
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="@Url.Content("~/Templates/Admin/assets/images/apple-touch-icon-72-precomposed.png")" type="text/css" media="screen">    <!-- For iPad -->
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="@Url.Content("~/Templates/Admin/assets/images/apple-touch-icon-144-precomposed.png")" type="text/css" media="screen">    <!-- For iPad Retina display -->
+
+
+    @Styles.Render("~/bundles/css") <!-- Render CSS bundle -->
+    @Scripts.Render("~/bundles/js") <!-- Render JS bundle -->
+    @RenderSection("head", required: false) <!-- Optional: Render additional scripts or styles from views -->
+</head>
+<body class=" ">
+    @Html.Partial("AdminLayout/_Topbar")
+    <div class="page-container row-fluid container-fluid">
+        @Html.Partial("AdminLayout/_Sidebar")
+        @RenderBody()
+    </div>
+
+
+
+    @RenderSection("scripts", required: false)
+
+</body>
+</html>

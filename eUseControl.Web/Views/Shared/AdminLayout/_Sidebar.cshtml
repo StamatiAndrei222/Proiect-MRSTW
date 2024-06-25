@@ -1,0 +1,97 @@
+﻿ <!-- SIDEBAR - START -->
+
+<div class="page-sidebar fixedscroll">
+
+    <!-- MAIN MENU - START -->
+    <div class="page-sidebar-wrapper" id="main-menu-wrapper">
+
+        <!-- USER INFO - START -->
+        <div class="profile-info row">
+
+            <div class="profile-image col-4">
+                    <img alt="" src="~/Templates/Admin/data/profile/profile-university.jpg" class="img-fluid rounded-circle">
+            </div>
+
+            <div class="profile-details col-8">
+
+                <h3>
+                    <a href="ui-profile.html">Prof. Alan Wilson</a>
+
+                    <!-- Available statuses: online, idle, busy, away and offline -->
+                    <span class="profile-status online"></span>
+                </h3>
+
+                <p class="profile-title">Head of Engg.</p>
+
+            </div>
+
+        </div>
+        <!-- USER INFO - END -->
+
+
+
+        <ul class='wraplist'>
+
+
+            <li class="open">
+                <a href="index-university.html">
+                    <i class="fa fa-dashboard"></i>
+                    <span class="title">Dashboard</span>
+                </a>
+            </li>
+            <li class="">
+                <a href="javascript:;">
+                    <i class="fa fa-users"></i>
+                    <span class="title">Professors</span>
+                    <span class="arrow "></span>
+                </a>
+                <ul class="sub-menu">
+                    <li>
+                        <a class="" href="@Url.Action("Teachers")">All Professors</a>
+                    </li>
+                    <li>
+                        <a class="" href="@Url.Action("AddTeacher")">Add Professor</a>
+                    </li>
+                </ul>
+            </li>
+           
+            
+            <li class="">
+                <a href="javascript:;">
+                    <i class="fa fa-envelope"></i>
+                    <span class="title">Mailbox</span>
+                    <span class="arrow "></span><span class="badge badge-accent">4</span>
+                </a>
+                <ul class="sub-menu">
+                    <li>
+                        <a class="" href="">Inbox</a>
+                    </li>
+                    <li>
+                        <a class="" href="">Compose</a>
+                    </li>
+                    <li>
+                        <a class="" href="">View</a>
+                    </li>
+                </ul>
+            </li>
+            <li class="">
+                <a href="javascript:;">
+                    <i class="fa fa-graduation-cap"></i>
+                    <span class="title">Courses</span>
+                    <span class="arrow "></span>
+                </a>
+                <ul class="sub-menu">
+                    <li>
+                        <a class="" href="@Url.Action("Courses")">All Courses</a>
+                    </li>
+                    <li>
+                        <a class="" href="@Url.Action("AddCourse")">Add Course</a>
+                    </li>
+                </ul>
+            </li>
+        </ul>
+    </div>
+    <!-- MAIN MENU - END -->
+
+</div>
+<!--  SIDEBAR - END -->

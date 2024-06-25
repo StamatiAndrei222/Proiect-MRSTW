@@ -1,0 +1,93 @@
+﻿@model EnglishCourses.Web.Models.User.UserRegistration
+
+@{
+    ViewBag.Title = "Registration";
+    Layout = null;
+}
+
+<head>
+</head>
+
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        background-image: url('/Vendor/_images/banner-bg.jpg');
+    }
+
+    .register-container {
+        max-width: 400px;
+        margin: 0 auto;
+        padding: 20px;
+        background-color: #fff;
+        border-radius: 5px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        margin-top: 200px;
+    }
+
+        .register-container h2 {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+    .form-group {
+        margin-bottom: 20px;
+    }
+
+        .form-group label {
+            display: block;
+            margin-bottom: 5px;
+            font-weight: bold;
+        }
+
+        .form-group input[type="text"],
+        .form-group input[type="password"] {
+            width: 100%;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 3px;
+        }
+
+        .form-group button {
+            width: 100%;
+            padding: 10px;
+            background-color: #007bff;
+            border: none;
+            color: #fff;
+            cursor: pointer;
+            border-radius: 3px;
+        }
+
+            .form-group button:hover {
+                background-color: #0056b3;
+            }
+</style>
+
+@using (Html.BeginForm("Register", "Registration", FormMethod.Post))
+{
+    @Html.AntiForgeryToken()
+    <div class="register-container">
+        <h2>Înregistrare</h2>
+        <div class="form-group">
+            @Html.LabelFor(m => m.Username, "Nume de utilizator")
+            @Html.TextBoxFor(m => m.Username, new { placeholder = "Introduceți numele de utilizator" })
+            @Html.ValidationMessageFor(m => m.Username)
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(m => m.Email, "Email")
+            @Html.TextBoxFor(m => m.Email, new { placeholder = "Introduceți adresa de email" })
+            @Html.ValidationMessageFor(m => m.Email)
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(m => m.Password, "Parolă")
+            @Html.PasswordFor(m => m.Password, new { placeholder = "Introduceți parola" })
+            @Html.ValidationMessageFor(m => m.Password)
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(m => m.ConfirmPassword, "Confirmare parolă")
+            @Html.PasswordFor(m => m.ConfirmPassword, new { placeholder = "Confirmați parola" })
+            @Html.ValidationMessageFor(m => m.ConfirmPassword)
+        </div>
+        <button type="submit">Înregistrează-te</button>
+    </div>
+}
+

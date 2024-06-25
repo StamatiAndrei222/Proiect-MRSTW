@@ -1,0 +1,64 @@
+﻿@model EnglishCourses.Web.Models.ViewModelsAdmin.AdminTeachersView
+
+@{
+    ViewBag.Title = "TeachersList";
+    Layout = "~/Views/Shared/AdminLayout/_AdminLayout.cshtml";
+}
+
+
+<!-- Main Content Section -->
+<section id="main-content" class="">
+    <section class="wrapper main-wrapper row" style="">
+        <div class="col-12">
+            <div class="page-title">
+                <div class="float-left">
+                    <h1 class="title">Teachers List</h1>
+                </div>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+        <!-- Main Content Area Starts -->
+        <div class="col-lg-12">
+            <section class="box">
+                <header class="panel_header">
+                    <h2 class="title float-left">Teachers</h2>
+                    <div class="actions panel_actions float-right">
+                        <a class="box_toggle fa fa-chevron-down"></a>
+                        <a class="box_setting fa fa-cog" data-toggle="modal" href="#section-settings"></a>
+                        <a class="box_close fa fa-times"></a>
+                    </div>
+                </header>
+                <div class="content-body">
+                    <table class="table table-striped">
+                        <thead>
+                            <tr>
+                                <th>Profile</th>
+                                <th>ID</th>
+                                <th>Name</th>
+                                <th>Actions</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @if (Model != null && Model.Teachers != null && Model.Teachers.Any())
+                            {
+                                foreach (var teacher in Model.Teachers)
+                                {
+                                    <tr>
+                                        <th><img src="data:image;base64,@teacher.ProfilePicture" alt="@teacher.Name" style="max-height: 100px;" /></th>
+                                        <td>@teacher.Id</td>
+                                        <td>@teacher.Name</td>
+                                        <td>
+                                            <a href="@Url.Action("EditTeacher", "Admin", new { id = teacher.Id })" class="btn btn-primary">Edit</a>
+                                            <a href="@Url.Action("DeleteTeacher", "Admin", new { id = teacher.Id })" class="btn btn-danger">Delete</a>
+                                        </td>
+                                    </tr>
+                                }
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </section>
+        </div>
+        <!-- Main Content Area Ends -->
+    </section>
+</section>

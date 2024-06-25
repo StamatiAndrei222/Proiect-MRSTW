@@ -134,8 +134,6 @@
     <Content Include="Views\web.config" />
     <None Include="packages.config" />
     <Content Include="Views\_ViewStart.cshtml" />
-    <Content Include="Views\Shared\_Layout.cshtml" />
-    <Content Include="Views\Shared\_LayoutTemplate.cshtml" />
     <Content Include="Scripts\jquery-3.7.1.slim.min.map" />
     <Content Include="Scripts\jquery-3.7.1.min.map" />
     <None Include="Web.Debug.config">
@@ -151,7 +149,13 @@
     <Folder Include="Extension\" />
     <Folder Include="Models\" />
     <Folder Include="QuizHelper\" />
+    <Folder Include="Templates\Admin\" />
+    <Folder Include="Templates\Home\" />
+    <Folder Include="Views\Admin\" />
     <Folder Include="Views\Home\" />
+    <Folder Include="Views\Login\" />
+    <Folder Include="Views\Registration\" />
+    <Folder Include="Views\Shared\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Proiect-MRSTW\EnglishCourses.BusinessLogic\EnglishCourses.BusinessLogic.csproj">

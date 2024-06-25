@@ -1,0 +1,56 @@
+﻿@model EnglishCourses.Web.Models.ViewModels.CourseContentView
+
+@{
+    ViewBag.Title = "Course Content";
+    Layout = "~/Views/Shared/HomeLayout/_Layout.cshtml";
+}
+
+<div class="container mt-5">
+    @if (Model != null && Model.Chapters != null && Model.Chapters.Any())
+    {
+        <div class="card">
+            <div class="card-header bg-primary text-white">
+                <h1 class="card-title">Course Content</h1>
+            </div>
+            <div class="card-body">
+                @foreach (var chapter in Model.Chapters)
+                {
+                    <div class="mb-4">
+                        <h2 class="chapter-title">@chapter.Title</h2>
+                        <h4 class="chapter-description text-muted">@chapter.Description</h4>
+                        <div class="chapter-content" style="white-space: pre-wrap;">@chapter.Content</div>
+                    </div>
+                    <hr />
+                }
+                <a href="@Url.Action("CourseDetails","Home", new {id = Model.CourseId})" class="btn btn-secondary mt-4">Back</a>
+            </div>
+        </div>
+    }
+    else
+    {
+        <div class="alert alert-warning" role="alert">
+            <h4 class="alert-heading">No Chapters Found</h4>
+            <p>It seems there are no chapters available for this course at the moment.</p>
+        </div>
+        <a href="@Url.Action("CourseDetails","Home", new {id = Model.CourseId})" class="btn btn-secondary mt-4">Back</a>
+    }
+</div>
+
+<style>
+    .chapter-title {
+        font-size: 1.5em;
+        font-weight: bold;
+        margin-bottom: 0.5em;
+    }
+
+    .chapter-description {
+        font-size: 1.2em;
+        margin-bottom: 0.75em;
+    }
+
+    .chapter-content {
+        font-size: 1em;
+        margin-bottom: 1.5em;
+    }
+</style>
+

@@ -1,0 +1,102 @@
+﻿@model EnglishCourses.Web.Models.Course.RegisterCourse
+
+@{
+    ViewBag.Title = "AddCourse";
+    Layout = "~/Views/Shared/AdminLayout/_AdminLayout.cshtml";
+}
+
+<!-- Main Content Section -->
+<section id="main-content" class="">
+    <section class="wrapper main-wrapper row" style="">
+        <div class="col-12">
+            <div class="page-title">
+                <div class="float-left">
+                    <h1 class="title">Add New Course</h1>
+                </div>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+        <!-- Main Content Area Starts -->
+        <div class="col-lg-12">
+            <section class="box">
+                <header class="panel_header">
+                    <h2 class="title float-left">Course Details</h2>
+                    <div class="actions panel_actions float-right">
+                        <a class="box_toggle fa fa-chevron-down"></a>
+                        <a class="box_setting fa fa-cog" data-toggle="modal" href="#section-settings"></a>
+                        <a class="box_close fa fa-times"></a>
+                    </div>
+                </header>
+                <div class="content-body">
+                    @using (Html.BeginForm("AddCourse", "Admin", FormMethod.Post, new { enctype = "multipart/form-data" }))
+                    {
+                        @Html.AntiForgeryToken()
+                        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+                        <!-- Picture -->
+                        <div class="form-group">
+
+                            @Html.LabelFor(model => model.DisplayImage, htmlAttributes: new { @class = "control-label col-md-2" })
+                            <div class="col-md-10">
+                                <input type="file" name="DisplayImage" required />
+                            </div>
+                        </div>
+
+                        <!-- Title -->
+                        <div class="form-group">
+
+                            @Html.LabelFor(model => model.Title, htmlAttributes: new { @class = "control-label col-md-2" })
+                            <div class="col-md-10">
+                                @Html.EditorFor(model => model.Title, new { htmlAttributes = new { @class = "form-control", placeholder = "Add Course Title", required = "true" } })
+                                @Html.ValidationMessageFor(model => model.Title, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+
+                        <!-- Description -->
+                        <div class="form-group">
+
+                            @Html.LabelFor(model => model.Description, htmlAttributes: new { @class = "control-label col-md-2" })
+                            <div class="col-md-10">
+                                @Html.TextAreaFor(model => model.Description, new { @class = "form-control", placeholder = "Add Course Description", rows = "5", required = "true" })
+                                @Html.ValidationMessageFor(model => model.Description, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+
+                        <!-- Category -->
+                        <div class="form-group">
+
+                            @Html.LabelFor(model => model.Category, htmlAttributes: new { @class = "control-label col-md-2" })
+                            <div class="col-md-10">
+                                @Html.DropDownListFor(model => model.Category, Enum.GetValues(typeof(EnglishCourses.Domain.Enums.CourseCategory)).Cast<EnglishCourses.Domain.Enums.CourseCategory>().Select(x => new SelectListItem
+                                {
+                                    Text = x.ToString(),
+                                    Value = ((int)x).ToString()
+                                }), "Select Category", new { @class = "form-control", required = "true" })
+                                @Html.ValidationMessageFor(model => model.Category, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+
+                        <!-- Teacher -->
+                        <div class="form-group">
+
+                            @Html.LabelFor(model => model.TeacherName, htmlAttributes: new { @class = "control-label col-md-2" })
+                            <div class="col-md-10">
+                                @Html.EditorFor(model => model.TeacherName, new { htmlAttributes = new { @class = "form-control", placeholder = "Add Teacher Name", required = "true" } })
+                                @Html.ValidationMessageFor(model => model.TeacherName, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+
+                        <!-- Save and Back Buttons -->
+                        <div class="form-group">
+                            <div class="col-md-offset-2 col-md-10">
+                                <input type="submit" value="Save" class="btn btn-default" />
+                                <a href="@Url.Action("Courses", "Admin")" class="btn btn-success btn-sm float-right">Back</a>
+                            </div>
+                        </div>
+                    }
+                </div>
+            </section>
+        </div>
+        <!-- Main Content Area Ends -->
+    </section>
+</section>

@@ -1,0 +1,38 @@
+﻿@model EnglishCourses.Web.Models.ViewModels.CourseSuggestionView
+
+@{
+    ViewBag.Title = "Course Suggestion";
+    Layout = "~/Views/Shared/HomeLayout/_Layout.cshtml";
+}
+
+<div class="container mt-5">
+    @if (Model != null && Model.Course != null)
+    {
+        <div class="card">
+            <div class="card-header bg-primary text-white">
+                <h1>Course Suggestion</h1>
+            </div>
+            <div class="card-body">
+                <h3 class="card-title">Based On Your Result, We Suggest You Take This Course:</h3>
+                <div class="text-center mb-3">
+                    <a class="courses-list-item position-relative d-block overflow-hidden mb-2" href="@Url.Action("CourseDetails","Home", new {id = Model.Course.Id})">
+                        <img class="img-fluid rounded" src="data:image;base64,@Model.Course.DisplayImage" alt="@Model.Course.Title" style="max-height: 300px; width: auto;">
+                    </a>
+                        </div>
+                <h4 class="card-title">@Model.Course.Title</h4>
+                <p class="card-text">@Model.Course.Description</p>
+                <p class="card-text"><strong>Category:</strong> @Model.Course.Category</p>
+                <p class="card-text"><strong>Teacher Name:</strong> @Model.Course.TeacherName</p>
+                
+            </div>
+        </div>
+    }
+    else
+    {
+        <div class="alert alert-danger" role="alert">
+            <h1 class="alert-heading">No Course Found</h1>
+            <p>It seems we can't find a course for you.</p>
+        </div>
+    }
+</div>
+

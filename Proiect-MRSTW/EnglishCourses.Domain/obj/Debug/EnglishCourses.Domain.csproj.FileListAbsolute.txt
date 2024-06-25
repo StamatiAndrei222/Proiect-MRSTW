@@ -1,0 +1,2 @@
+D:\uni an 2\sem 2\ProiectGit\Proiect-MRSTW\EnglishCourses.Domain\obj\Debug\EnglishCourses.Domain.csproj.AssemblyReference.cache
+D:\uni an 2\sem 2\ProiectGit\Proiect-MRSTW\EnglishCourses.Domain\obj\Debug\EnglishCourses.Domain.csproj.CoreCompileInputs.cache
