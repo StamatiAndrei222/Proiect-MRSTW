@@ -136,6 +136,29 @@
     <Content Include="Views\_ViewStart.cshtml" />
     <Content Include="Scripts\jquery-3.7.1.slim.min.map" />
     <Content Include="Scripts\jquery-3.7.1.min.map" />
+    <Content Include="Views\Admin\AddChapter.cshtml" />
+    <Content Include="Views\Admin\AddCourse.cshtml" />
+    <Content Include="Views\Admin\AddTeacher.cshtml" />
+    <Content Include="Views\Admin\CourseDetails.cshtml" />
+    <Content Include="Views\Admin\Courses.cshtml" />
+    <Content Include="Views\Admin\EditChapter.cshtml" />
+    <Content Include="Views\Admin\EditTeacher.cshtml" />
+    <Content Include="Views\Admin\Index.cshtml" />
+    <Content Include="Views\Admin\Teachers.cshtml" />
+    <Content Include="Views\Home\CourseContent.cshtml" />
+    <Content Include="Views\Home\CourseDetails.cshtml" />
+    <Content Include="Views\Home\Courses.cshtml" />
+    <Content Include="Views\Home\CourseSuggestion.cshtml" />
+    <Content Include="Views\Home\Index.cshtml" />
+    <Content Include="Views\Home\TakeQuiz.cshtml" />
+    <Content Include="Views\Login\Login.cshtml" />
+    <Content Include="Views\Registration\Register.cshtml" />
+    <Content Include="Views\Shared\AdminLayout\_AdminLayout.cshtml" />
+    <Content Include="Views\Shared\AdminLayout\_Sidebar.cshtml" />
+    <Content Include="Views\Shared\AdminLayout\_Topbar.cshtml" />
+    <Content Include="Views\Shared\HomeLayout\_Footer.cshtml" />
+    <Content Include="Views\Shared\HomeLayout\_Layout.cshtml" />
+    <Content Include="Views\Shared\HomeLayout\_Navbar.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -151,11 +174,6 @@
     <Folder Include="QuizHelper\" />
     <Folder Include="Templates\Admin\" />
     <Folder Include="Templates\Home\" />
-    <Folder Include="Views\Admin\" />
-    <Folder Include="Views\Home\" />
-    <Folder Include="Views\Login\" />
-    <Folder Include="Views\Registration\" />
-    <Folder Include="Views\Shared\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Proiect-MRSTW\EnglishCourses.BusinessLogic\EnglishCourses.BusinessLogic.csproj">

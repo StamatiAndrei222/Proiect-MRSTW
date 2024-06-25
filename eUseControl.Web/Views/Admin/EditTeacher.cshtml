@@ -48,43 +48,43 @@
                         @using (Html.BeginForm("EditTeacher", "Admin", FormMethod.Post, new { enctype = "multipart/form-data" }))
                         {
                             @Html.AntiForgeryToken()
-                        <div class="col-12 col-md-9 col-lg-8">
-                            <div class="form-group">
-                                <label class="form-label">Profile Picture</label>                      
-                                <span class="desc"></span>
-                                <div class="controls">
-                                    <input type="file" name="ProfilePicture"  />
+                            <div class="col-12 col-md-9 col-lg-8">
+                                <div class="form-group">
+                                    <label class="form-label">Profile Picture</label>
+                                    <span class="desc"></span>
+                                    <div class="controls">
+                                        <input type="file" name="ProfilePicture" />
+                                    </div>
                                 </div>
-                            </div>
-                            <div class="form-group">
-                                <label class="form-label">Name</label>
-                                <span class="desc"></span>
-                                <div class="controls">
-                                    @Html.TextAreaFor(model => model.Name, new
-                                    {
-                                        @class = "form-control",
-                                        placeholder = "Teacher Name",
-                                        required = "true"
-                                    })
-                                    @Html.ValidationMessageFor(model => model.Name, "", new { @class = "text-danger" })
+                                <div class="form-group">
+                                    <label class="form-label">Name</label>
+                                    <span class="desc"></span>
+                                    <div class="controls">
+                                        @Html.TextAreaFor(model => model.Name, new
+                                        {
+                                            @class = "form-control",
+                                            placeholder = "Teacher Name",
+                                            required = "true"
+                                        })
+                                        @Html.ValidationMessageFor(model => model.Name, "", new { @class = "text-danger" })
+                                    </div>
                                 </div>
-                            </div>
 
-                            <div class="form-group">
-                                <label class="form-label">Biography</label>
-                                <span class="desc"></span>
-                                <div class="controls">
-                                    @Html.TextAreaFor(model => model.Biography, new
-                                    {
-                                        @class = "form-control",
-                                        placeholder = "Teacher Biography",
-                                        rows = "15",
-                                        required = "true"
-                                    })
-                                    @Html.ValidationMessageFor(model => model.Biography, "", new { @class = "text-danger" })
+                                <div class="form-group">
+                                    <label class="form-label">Biography</label>
+                                    <span class="desc"></span>
+                                    <div class="controls">
+                                        @Html.TextAreaFor(model => model.Biography, new
+                                        {
+                                            @class = "form-control",
+                                            placeholder = "Teacher Biography",
+                                            rows = "15",
+                                            required = "true"
+                                        })
+                                        @Html.ValidationMessageFor(model => model.Biography, "", new { @class = "text-danger" })
+                                    </div>
                                 </div>
                             </div>
-                        </div>
 
                             <div class="col-12 col-md-9 col-lg-8 padding-bottom-30">
                                 <div class="text-left">

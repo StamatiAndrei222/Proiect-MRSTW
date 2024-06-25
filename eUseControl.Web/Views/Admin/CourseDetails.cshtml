@@ -35,58 +35,58 @@
                             {
                                 @Html.AntiForgeryToken()
                                 @Html.HiddenFor(model => model.Course.Id)
-                            <div class="form-group">
+                                <div class="form-group">
 
-                                <div class="col-md-12">
-                                    @Html.LabelFor(model => model.Course.DisplayImage, htmlAttributes: new { @class = "control-label" })
-                                    <input type="file" name="DisplayImage" id="DisplayImage" class="form-control" />
-                                </div>
+                                    <div class="col-md-12">
+                                        @Html.LabelFor(model => model.Course.DisplayImage, htmlAttributes: new { @class = "control-label" })
+                                        <input type="file" name="DisplayImage" id="DisplayImage" class="form-control" />
+                                    </div>
 
-                                <div class="col-md-12">
-                                    @Html.LabelFor(model => model.Course.Title, htmlAttributes: new { @class = "control-label" })
-                                    @Html.TextAreaFor(model => model.Course.Title, new
-                                    {
-                                        @class = "form-control",
-                                        placeholder = "Course Title",
-                                        required = "true"
-                                    })
-                                    @Html.ValidationMessageFor(model => model.Course.Title, "", new { @class = "text-danger" })
+                                    <div class="col-md-12">
+                                        @Html.LabelFor(model => model.Course.Title, htmlAttributes: new { @class = "control-label" })
+                                        @Html.TextAreaFor(model => model.Course.Title, new
+                                        {
+                                            @class = "form-control",
+                                            placeholder = "Course Title",
+                                            required = "true"
+                                        })
+                                        @Html.ValidationMessageFor(model => model.Course.Title, "", new { @class = "text-danger" })
+                                    </div>
+                                    <div class="col-md-12">
+                                        @Html.LabelFor(model => model.Course.Description, htmlAttributes: new { @class = "control-label" })
+                                        @Html.TextAreaFor(model => model.Course.Description, new
+                                        {
+                                            @class = "form-control",
+                                            placeholder = "Course Description",
+                                            rows = "15",
+                                            required = "true"
+                                        })
+                                        @Html.ValidationMessageFor(model => model.Course.Description, "", new { @class = "text-danger" })
+                                    </div>
+                                    <div class="col-md-12">
+                                        @Html.LabelFor(model => model.Course.Category, htmlAttributes: new { @class = "control-label" })
+                                        @Html.DropDownListFor(model => model.Course.Category, Enum.GetValues(typeof(EnglishCourses.Domain.Enums.CourseCategory)).Cast<EnglishCourses.Domain.Enums.CourseCategory>().Select(x => new SelectListItem
+                                        {
+                                            Text = x.ToString(),
+                                            Value = ((int)x).ToString()
+                                        }), "Select Category", new
+                                        {
+                                            @class = "form-control",
+                                            required = true
+                                        })
+                                        @Html.ValidationMessageFor(model => model.Course.Category, "", new { @class = "text-danger" })
+                                    </div>
+                                    <div class="col-md-12">
+                                        @Html.LabelFor(model => model.Course.TeacherName, htmlAttributes: new { @class = "control-label" })
+                                        @Html.TextAreaFor(model => model.Course.TeacherName, new
+                                        {
+                                            @class = "form-control",
+                                            placeholder = "Course Teacher",
+                                            required = "true"
+                                        })
+                                        @Html.ValidationMessageFor(model => model.Course.TeacherName, "", new { @class = "text-danger" })
+                                    </div>
                                 </div>
-                                <div class="col-md-12">
-                                    @Html.LabelFor(model => model.Course.Description, htmlAttributes: new { @class = "control-label" })
-                                    @Html.TextAreaFor(model => model.Course.Description, new
-                                    {
-                                        @class = "form-control",
-                                        placeholder = "Course Description",
-                                        rows = "15",
-                                        required = "true"
-                                    })
-                                    @Html.ValidationMessageFor(model => model.Course.Description, "", new { @class = "text-danger" })
-                                </div>
-                                <div class="col-md-12">
-                                    @Html.LabelFor(model => model.Course.Category, htmlAttributes: new { @class = "control-label" })
-                                    @Html.DropDownListFor(model => model.Course.Category, Enum.GetValues(typeof(EnglishCourses.Domain.Enums.CourseCategory)).Cast<EnglishCourses.Domain.Enums.CourseCategory>().Select(x => new SelectListItem
-                                    {
-                                        Text = x.ToString(),
-                                        Value = ((int)x).ToString()
-                                    }), "Select Category", new
-                                    {
-                                        @class = "form-control",
-                                        required = true
-                                    })
-                                    @Html.ValidationMessageFor(model => model.Course.Category, "", new { @class = "text-danger" })
-                                </div>
-                                <div class="col-md-12">
-                                    @Html.LabelFor(model => model.Course.TeacherName, htmlAttributes: new { @class = "control-label" })
-                                    @Html.TextAreaFor(model => model.Course.TeacherName, new
-                                    {
-                                        @class = "form-control",
-                                        placeholder = "Course Teacher",
-                                        required = "true"
-                                    })
-                                    @Html.ValidationMessageFor(model => model.Course.TeacherName, "", new { @class = "text-danger" })
-                                </div>
-                            </div>
 
                                 <div class="form-group">
                                     <div class="col-md-offset-2 col-md-10">
