@@ -58,7 +58,72 @@ C:\Users\User\Documents\Anul 2\ProiectGitDesktop\Proiect-MRSTW\eUseControl.Web\o
 C:\Users\User\Documents\Anul 2\ProiectGitDesktop\Proiect-MRSTW\eUseControl.Web\obj\Debug\eUseControl.Web.csproj.CopyComplete
 C:\Users\User\Documents\Anul 2\ProiectGitDesktop\Proiect-MRSTW\eUseControl.Web\obj\Debug\eUseControl.Web.dll
 C:\Users\User\Documents\Anul 2\ProiectGitDesktop\Proiect-MRSTW\eUseControl.Web\obj\Debug\eUseControl.Web.pdb
+<<<<<<< Updated upstream
 D:\uni an 2\sem 2\ProiectGit\eUseControl.Web\obj\Debug\eUseControl.Web.csproj.AssemblyReference.cache
 D:\uni an 2\sem 2\ProiectGit\eUseControl.Web\obj\Debug\eUseControl.Web.csproj.CoreCompileInputs.cache
+=======
+D:\uni an 2\sem 2\ProiectGit\eUseControl.Web\bin\eUseControl.Web.dll.config
+D:\uni an 2\sem 2\ProiectGit\eUseControl.Web\bin\eUseControl.Web.dll
+D:\uni an 2\sem 2\ProiectGit\eUseControl.Web\bin\eUseControl.Web.pdb
+D:\uni an 2\sem 2\ProiectGit\eUseControl.Web\bin\roslyn\csc.exe
+D:\uni an 2\sem 2\ProiectGit\eUseControl.Web\bin\roslyn\csc.exe.config
+D:\uni an 2\sem 2\ProiectGit\eUseControl.Web\bin\roslyn\csc.rsp
+D:\uni an 2\sem 2\ProiectGit\eUseControl.Web\bin\roslyn\csi.exe
+D:\uni an 2\sem 2\ProiectGit\eUseControl.Web\bin\roslyn\csi.exe.config
+D:\uni an 2\sem 2\ProiectGit\eUseControl.Web\bin\roslyn\csi.rsp
+D:\uni an 2\sem 2\ProiectGit\eUseControl.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\uni an 2\sem 2\ProiectGit\eUseControl.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\uni an 2\sem 2\ProiectGit\eUseControl.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\uni an 2\sem 2\ProiectGit\eUseControl.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\uni an 2\sem 2\ProiectGit\eUseControl.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\uni an 2\sem 2\ProiectGit\eUseControl.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\uni an 2\sem 2\ProiectGit\eUseControl.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\uni an 2\sem 2\ProiectGit\eUseControl.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\uni an 2\sem 2\ProiectGit\eUseControl.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\uni an 2\sem 2\ProiectGit\eUseControl.Web\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+D:\uni an 2\sem 2\ProiectGit\eUseControl.Web\bin\roslyn\Microsoft.Managed.Core.targets
+D:\uni an 2\sem 2\ProiectGit\eUseControl.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\uni an 2\sem 2\ProiectGit\eUseControl.Web\bin\roslyn\System.Buffers.dll
+D:\uni an 2\sem 2\ProiectGit\eUseControl.Web\bin\roslyn\System.Collections.Immutable.dll
+D:\uni an 2\sem 2\ProiectGit\eUseControl.Web\bin\roslyn\System.Memory.dll
+D:\uni an 2\sem 2\ProiectGit\eUseControl.Web\bin\roslyn\System.Numerics.Vectors.dll
+D:\uni an 2\sem 2\ProiectGit\eUseControl.Web\bin\roslyn\System.Reflection.Metadata.dll
+D:\uni an 2\sem 2\ProiectGit\eUseControl.Web\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\uni an 2\sem 2\ProiectGit\eUseControl.Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\uni an 2\sem 2\ProiectGit\eUseControl.Web\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\uni an 2\sem 2\ProiectGit\eUseControl.Web\bin\roslyn\vbc.exe
+D:\uni an 2\sem 2\ProiectGit\eUseControl.Web\bin\roslyn\vbc.exe.config
+D:\uni an 2\sem 2\ProiectGit\eUseControl.Web\bin\roslyn\vbc.rsp
+D:\uni an 2\sem 2\ProiectGit\eUseControl.Web\bin\roslyn\VBCSCompiler.exe
+D:\uni an 2\sem 2\ProiectGit\eUseControl.Web\bin\roslyn\VBCSCompiler.exe.config
+D:\uni an 2\sem 2\ProiectGit\eUseControl.Web\bin\AutoMapper.dll
+D:\uni an 2\sem 2\ProiectGit\eUseControl.Web\bin\BusinessLogic.dll
+D:\uni an 2\sem 2\ProiectGit\eUseControl.Web\bin\EntityFramework.dll
+D:\uni an 2\sem 2\ProiectGit\eUseControl.Web\bin\EntityFramework.SqlServer.dll
+D:\uni an 2\sem 2\ProiectGit\eUseControl.Web\bin\eUseControl.Domain.dll
+D:\uni an 2\sem 2\ProiectGit\eUseControl.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\uni an 2\sem 2\ProiectGit\eUseControl.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\uni an 2\sem 2\ProiectGit\eUseControl.Web\bin\System.Web.Helpers.dll
+D:\uni an 2\sem 2\ProiectGit\eUseControl.Web\bin\System.Web.Mvc.dll
+D:\uni an 2\sem 2\ProiectGit\eUseControl.Web\bin\System.Web.Razor.dll
+D:\uni an 2\sem 2\ProiectGit\eUseControl.Web\bin\System.Web.WebPages.Deployment.dll
+D:\uni an 2\sem 2\ProiectGit\eUseControl.Web\bin\System.Web.WebPages.dll
+D:\uni an 2\sem 2\ProiectGit\eUseControl.Web\bin\System.Web.WebPages.Razor.dll
+D:\uni an 2\sem 2\ProiectGit\eUseControl.Web\bin\BusinessLogic.pdb
+D:\uni an 2\sem 2\ProiectGit\eUseControl.Web\bin\eUseControl.Domain.pdb
+D:\uni an 2\sem 2\ProiectGit\eUseControl.Web\bin\AutoMapper.xml
+D:\uni an 2\sem 2\ProiectGit\eUseControl.Web\bin\EntityFramework.xml
+D:\uni an 2\sem 2\ProiectGit\eUseControl.Web\bin\EntityFramework.SqlServer.xml
+D:\uni an 2\sem 2\ProiectGit\eUseControl.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\uni an 2\sem 2\ProiectGit\eUseControl.Web\bin\System.Web.Helpers.xml
+D:\uni an 2\sem 2\ProiectGit\eUseControl.Web\bin\System.Web.Mvc.xml
+D:\uni an 2\sem 2\ProiectGit\eUseControl.Web\bin\System.Web.Razor.xml
+D:\uni an 2\sem 2\ProiectGit\eUseControl.Web\bin\System.Web.WebPages.xml
+D:\uni an 2\sem 2\ProiectGit\eUseControl.Web\bin\System.Web.WebPages.Deployment.xml
+D:\uni an 2\sem 2\ProiectGit\eUseControl.Web\bin\System.Web.WebPages.Razor.xml
+D:\uni an 2\sem 2\ProiectGit\eUseControl.Web\obj\Debug\eUseControl.Web.csproj.AssemblyReference.cache
+D:\uni an 2\sem 2\ProiectGit\eUseControl.Web\obj\Debug\eUseControl.Web.csproj.CoreCompileInputs.cache
+D:\uni an 2\sem 2\ProiectGit\eUseControl.Web\obj\Debug\eUseCont.507825D9.Up2Date
+>>>>>>> Stashed changes
 D:\uni an 2\sem 2\ProiectGit\eUseControl.Web\obj\Debug\eUseControl.Web.dll
 D:\uni an 2\sem 2\ProiectGit\eUseControl.Web\obj\Debug\eUseControl.Web.pdb
