@@ -125,3 +125,27 @@ D:\uni an 2\sem 2\ProiectGit\eUseControl.Web\obj\Debug\eUseCont.507825D9.Up2Date
 >>>>>>> Stashed changes
 D:\uni an 2\sem 2\ProiectGit\eUseControl.Web\obj\Debug\eUseControl.Web.dll
 D:\uni an 2\sem 2\ProiectGit\eUseControl.Web\obj\Debug\eUseControl.Web.pdb
+C:\Users\User\Documents\Anul 2\ProiectGitDesktop\Proiect-MRSTW\eUseControl.Web\bin\Antlr3.Runtime.dll
+C:\Users\User\Documents\Anul 2\ProiectGitDesktop\Proiect-MRSTW\eUseControl.Web\bin\BCrypt.Net.dll
+C:\Users\User\Documents\Anul 2\ProiectGitDesktop\Proiect-MRSTW\eUseControl.Web\bin\EnglishCourses.BusinessLogic.dll
+C:\Users\User\Documents\Anul 2\ProiectGitDesktop\Proiect-MRSTW\eUseControl.Web\bin\EnglishCourses.Domain.dll
+C:\Users\User\Documents\Anul 2\ProiectGitDesktop\Proiect-MRSTW\eUseControl.Web\bin\ImageResizer.dll
+C:\Users\User\Documents\Anul 2\ProiectGitDesktop\Proiect-MRSTW\eUseControl.Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\User\Documents\Anul 2\ProiectGitDesktop\Proiect-MRSTW\eUseControl.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\User\Documents\Anul 2\ProiectGitDesktop\Proiect-MRSTW\eUseControl.Web\bin\Newtonsoft.Json.dll
+C:\Users\User\Documents\Anul 2\ProiectGitDesktop\Proiect-MRSTW\eUseControl.Web\bin\System.Web.Optimization.dll
+C:\Users\User\Documents\Anul 2\ProiectGitDesktop\Proiect-MRSTW\eUseControl.Web\bin\WebGrease.dll
+C:\Users\User\Documents\Anul 2\ProiectGitDesktop\Proiect-MRSTW\eUseControl.Web\bin\EnglishCourses.Helper.dll
+C:\Users\User\Documents\Anul 2\ProiectGitDesktop\Proiect-MRSTW\eUseControl.Web\bin\EnglishCourses.BusinessLogic.pdb
+C:\Users\User\Documents\Anul 2\ProiectGitDesktop\Proiect-MRSTW\eUseControl.Web\bin\EnglishCourses.BusinessLogic.dll.config
+C:\Users\User\Documents\Anul 2\ProiectGitDesktop\Proiect-MRSTW\eUseControl.Web\bin\EnglishCourses.Domain.pdb
+C:\Users\User\Documents\Anul 2\ProiectGitDesktop\Proiect-MRSTW\eUseControl.Web\bin\EnglishCourses.Domain.dll.config
+C:\Users\User\Documents\Anul 2\ProiectGitDesktop\Proiect-MRSTW\eUseControl.Web\bin\Antlr3.Runtime.pdb
+C:\Users\User\Documents\Anul 2\ProiectGitDesktop\Proiect-MRSTW\eUseControl.Web\bin\BCrypt.Net.xml
+C:\Users\User\Documents\Anul 2\ProiectGitDesktop\Proiect-MRSTW\eUseControl.Web\bin\ImageResizer.xml
+C:\Users\User\Documents\Anul 2\ProiectGitDesktop\Proiect-MRSTW\eUseControl.Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\User\Documents\Anul 2\ProiectGitDesktop\Proiect-MRSTW\eUseControl.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\User\Documents\Anul 2\ProiectGitDesktop\Proiect-MRSTW\eUseControl.Web\bin\Newtonsoft.Json.xml
+C:\Users\User\Documents\Anul 2\ProiectGitDesktop\Proiect-MRSTW\eUseControl.Web\bin\System.Web.Optimization.xml
+C:\Users\User\Documents\Anul 2\ProiectGitDesktop\Proiect-MRSTW\eUseControl.Web\bin\EnglishCourses.Helper.pdb
+C:\Users\User\Documents\Anul 2\ProiectGitDesktop\Proiect-MRSTW\eUseControl.Web\bin\EnglishCourses.Helper.dll.config
