@@ -1,0 +1,34 @@
+{
+  "Questions": [
+    [
+      {
+        "Question": "Can I park here?",
+        "PossibleAnswers": [
+          "Sorry, I did that.",
+          "It's the same place.",
+          "Only for half an hour."
+        ],
+        "Answer": 2
+      },
+      {
+        "Question": "What colour will you paint the children's bedroom?",
+        "PossibleAnswers": [
+          "I hope it was right.",
+          "We can't decide.",
+          "It wasn't very difficult."
+        ],
+        "Answer": 1
+      },
+      {
+        "Question": "Anne's house is somewhere in the ...... of the railway station.",
+        "PossibleAnswers": [
+          "region",
+          "quarter",
+          "vicinity",
+          "district"
+        ],
+        "Answer": 2
+      }
+    ]
+  ]
+}

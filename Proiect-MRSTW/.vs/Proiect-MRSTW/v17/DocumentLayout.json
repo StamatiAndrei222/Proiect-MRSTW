@@ -131,19 +131,6 @@
           "SelectedChildIndex": 7,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "index.html",
-              "DocumentMoniker": "D:\\uni an 2\\sem 2\\ProiectGit\\eUseControl.Web\\Templates\\Admin\\plugins\\ckeditor\\samples\\toolbarconfigurator\\index.html",
-              "RelativeDocumentMoniker": "..\\eUseControl.Web\\Templates\\Admin\\plugins\\ckeditor\\samples\\toolbarconfigurator\\index.html",
-              "ToolTip": "D:\\uni an 2\\sem 2\\ProiectGit\\eUseControl.Web\\Templates\\Admin\\plugins\\ckeditor\\samples\\toolbarconfigurator\\index.html",
-              "RelativeToolTip": "..\\eUseControl.Web\\Templates\\Admin\\plugins\\ckeditor\\samples\\toolbarconfigurator\\index.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-06-26T14:33:10.533Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
@@ -169,6 +156,18 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index.html",
+              "DocumentMoniker": "D:\\uni an 2\\sem 2\\ProiectGit\\eUseControl.Web\\Templates\\Admin\\plugins\\ckeditor\\samples\\toolbarconfigurator\\index.html",
+              "RelativeDocumentMoniker": "..\\eUseControl.Web\\Templates\\Admin\\plugins\\ckeditor\\samples\\toolbarconfigurator\\index.html",
+              "ToolTip": "D:\\uni an 2\\sem 2\\ProiectGit\\eUseControl.Web\\Templates\\Admin\\plugins\\ckeditor\\samples\\toolbarconfigurator\\index.html",
+              "RelativeToolTip": "..\\eUseControl.Web\\Templates\\Admin\\plugins\\ckeditor\\samples\\toolbarconfigurator\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-06-26T14:33:10.533Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "index.html",
               "DocumentMoniker": "D:\\uni an 2\\sem 2\\ProiectGit\\eUseControl.Web\\Templates\\Admin\\plugins\\ckeditor\\samples\\toolbarconfigurator\\lib\\index.html",
@@ -190,8 +189,7 @@
               "RelativeToolTip": "..\\eUseControl.Web\\Templates\\Admin\\fonts\\font-awesome\\css\\font-awesome.min.css",
               "ViewState": "AQIAACYIAAAAAAAAAAAAADgIAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-06-26T12:43:35.829Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-26T12:43:35.829Z"
             },
             {
               "$type": "Document",
@@ -203,8 +201,7 @@
               "RelativeToolTip": "..\\eUseControl.Web\\Templates\\Admin\\fonts\\font-awesome\\css\\font-awesome.css",
               "ViewState": "AQIAAG0IAAAAAAAAAAAAAIUIAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-06-26T12:43:15.596Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-26T12:43:15.596Z"
             },
             {
               "$type": "Document",
@@ -216,8 +213,7 @@
               "RelativeToolTip": "..\\eUseControl.Web\\Templates\\Admin\\fonts\\font-awesome\\index.html",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-06-26T12:42:31.48Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-26T12:42:31.48Z"
             },
             {
               "$type": "Document",
@@ -229,8 +225,7 @@
               "RelativeToolTip": "..\\eUseControl.Web\\Templates\\Admin\\fonts\\index.html",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-06-26T12:41:21.553Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-26T12:41:21.553Z"
             },
             {
               "$type": "Document",
@@ -242,8 +237,7 @@
               "RelativeToolTip": "..\\eUseControl.Web\\Templates\\Admin\\css\\style.css",
               "ViewState": "AQIAAHkkAAAAAAAAAAAiwJQkAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-06-26T12:38:20.615Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-26T12:38:20.615Z"
             },
             {
               "$type": "Document",
@@ -255,8 +249,7 @@
               "RelativeToolTip": "..\\eUseControl.Web\\Templates\\Admin\\css\\animate.min.css",
               "ViewState": "AQIAAEYMAAAAAAAAAAAiwGEMAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-06-26T12:37:31.492Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-26T12:37:31.492Z"
             },
             {
               "$type": "Document",
@@ -268,8 +261,7 @@
               "RelativeToolTip": "..\\eUseControl.Web\\Templates\\Admin\\css\\responsive.css",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-06-26T12:37:55.604Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-26T12:37:55.604Z"
             },
             {
               "$type": "Document",
@@ -281,8 +273,7 @@
               "RelativeToolTip": "..\\eUseControl.Web\\Templates\\Admin\\css\\index.html",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-06-26T12:39:04.095Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-26T12:39:04.095Z"
             },
             {
               "$type": "Document",
@@ -294,8 +285,7 @@
               "RelativeToolTip": "..\\eUseControl.Web\\Templates\\Admin\\index.html",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-06-26T12:38:47.775Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-26T12:38:47.775Z"
             },
             {
               "$type": "Document",
@@ -307,8 +297,7 @@
               "RelativeToolTip": "..\\eUseControl.Web\\Controllers\\LoginController.cs",
               "ViewState": "AQIAADYAAAAAAAAAAAAuwEgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T10:33:30.765Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-26T10:33:30.765Z"
             },
             {
               "$type": "Document",
