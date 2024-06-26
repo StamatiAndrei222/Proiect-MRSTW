@@ -2350,10 +2350,14 @@
   <ItemGroup>
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Attributes\AdminAttribute.cs" />
     <Compile Include="Attributes\UserAttribute.cs" />
+    <Compile Include="Controllers\AdminController.cs" />
+    <Compile Include="Controllers\BaseController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\LoginController.cs" />
     <Compile Include="Controllers\RegistrationController.cs" />
+    <Compile Include="Extension\HttpContextExtensions.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -2375,10 +2379,18 @@
     <Compile Include="Models\Teacher\TeacherBrief.cs" />
     <Compile Include="Models\User\UserLogin.cs" />
     <Compile Include="Models\User\UserRegistration.cs" />
+    <Compile Include="Models\ViewModelsAdmin\AdminCoursesView.cs" />
+    <Compile Include="Models\ViewModelsAdmin\AdminCourseView.cs" />
+    <Compile Include="Models\ViewModelsAdmin\AdminEditChapterView.cs" />
+    <Compile Include="Models\ViewModelsAdmin\AdminEditTeacherView.cs" />
+    <Compile Include="Models\ViewModelsAdmin\AdminHomeView.cs" />
+    <Compile Include="Models\ViewModelsAdmin\AdminNavbarView.cs" />
+    <Compile Include="Models\ViewModelsAdmin\AdminTeachersView.cs" />
     <Compile Include="Models\ViewModels\CourseContentView.cs" />
     <Compile Include="Models\ViewModels\CourseDetailsView.cs" />
     <Compile Include="Models\ViewModels\CourseSuggestionView.cs" />
     <Compile Include="Models\ViewModels\CoursesView.cs" />
+    <Compile Include="Models\ViewModels\HomeView.cs" />
     <Compile Include="Models\ViewModels\NavbarView.cs" />
     <Compile Include="Models\ViewModels\QuizView.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -2608,8 +2620,52 @@
   <ItemGroup>
     <Folder Include="Content\Images\" />
     <Folder Include="Extension\" />
-    <Folder Include="Templates\Admin\assets\plugins\ckeditor\plugins\about\dialogs\hidpi\" />
-    <Folder Include="Templates\Admin\assets\plugins\datatables-\extensions\FixedColumns\examples\integration\" />
+    <Folder Include="Templates\Admin\plugins\ckeditor\plugins\about\dialogs\hidpi\" />
+    <Folder Include="Templates\Admin\plugins\datatables-\extensions\FixedColumns\examples\integration\" />
+    <Folder Include="Templates\Admin\plugins\datatables-\extensions\KeyTable\" />
+    <Folder Include="Templates\Admin\plugins\datatables-\extensions\Responsive-v1.10.0\" />
+    <Folder Include="Templates\Admin\plugins\datatables-\extensions\Responsive\" />
+    <Folder Include="Templates\Admin\plugins\datatables-\extensions\RowReorder\" />
+    <Folder Include="Templates\Admin\plugins\datatables-\extensions\Scroller\" />
+    <Folder Include="Templates\Admin\plugins\datatables-\extensions\Select\" />
+    <Folder Include="Templates\Admin\plugins\datatables-\extensions\TableTools\" />
+    <Folder Include="Templates\Admin\plugins\datatables-\images\" />
+    <Folder Include="Templates\Admin\plugins\datatables-\js\" />
+    <Folder Include="Templates\Admin\plugins\datepicker\" />
+    <Folder Include="Templates\Admin\plugins\daterangepicker\" />
+    <Folder Include="Templates\Admin\plugins\datetimepicker\" />
+    <Folder Include="Templates\Admin\plugins\dropzone\" />
+    <Folder Include="Templates\Admin\plugins\easypiechart\" />
+    <Folder Include="Templates\Admin\plugins\echarts\" />
+    <Folder Include="Templates\Admin\plugins\flot-chart\" />
+    <Folder Include="Templates\Admin\plugins\gauge\" />
+    <Folder Include="Templates\Admin\plugins\icheck\" />
+    <Folder Include="Templates\Admin\plugins\image-cropper\" />
+    <Folder Include="Templates\Admin\plugins\inputmask\" />
+    <Folder Include="Templates\Admin\plugins\ios-switch\" />
+    <Folder Include="Templates\Admin\plugins\isotope\" />
+    <Folder Include="Templates\Admin\plugins\jquery-knob\" />
+    <Folder Include="Templates\Admin\plugins\jquery-ui\" />
+    <Folder Include="Templates\Admin\plugins\jquery-validation\" />
+    <Folder Include="Templates\Admin\plugins\jvectormap\" />
+    <Folder Include="Templates\Admin\plugins\messenger\" />
+    <Folder Include="Templates\Admin\plugins\morris-chart\" />
+    <Folder Include="Templates\Admin\plugins\multi-select\" />
+    <Folder Include="Templates\Admin\plugins\pace\" />
+    <Folder Include="Templates\Admin\plugins\perfect-scrollbar-\" />
+    <Folder Include="Templates\Admin\plugins\perfect-scrollbar\" />
+    <Folder Include="Templates\Admin\plugins\prettyphoto\" />
+    <Folder Include="Templates\Admin\plugins\responsive-tables\" />
+    <Folder Include="Templates\Admin\plugins\select2\" />
+    <Folder Include="Templates\Admin\plugins\sparkline-chart\" />
+    <Folder Include="Templates\Admin\plugins\switchery\" />
+    <Folder Include="Templates\Admin\plugins\tagsinput\" />
+    <Folder Include="Templates\Admin\plugins\timepicker\" />
+    <Folder Include="Templates\Admin\plugins\typeahead\" />
+    <Folder Include="Templates\Admin\plugins\uikit\" />
+    <Folder Include="Templates\Admin\plugins\viewport-\" />
+    <Folder Include="Templates\Admin\plugins\viewport\" />
+    <Folder Include="Templates\Home\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Proiect-MRSTW\EnglishCourses.BusinessLogic\EnglishCourses.BusinessLogic.csproj">

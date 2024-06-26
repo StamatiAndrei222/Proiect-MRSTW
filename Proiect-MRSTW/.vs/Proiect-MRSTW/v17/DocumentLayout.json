@@ -6,33 +6,12 @@
       "AbsoluteMoniker": "D:0:0:{ADED6522-BFC1-4FA6-B732-049B8E9B539F}|..\\eUseControl.Web\\eUseControl.Web.csproj|d:\\uni an 2\\sem 2\\proiectgit\\eusecontrol.web\\models\\quiz\\quizmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ADED6522-BFC1-4FA6-B732-049B8E9B539F}|..\\eUseControl.Web\\eUseControl.Web.csproj|d:\\uni an 2\\sem 2\\proiectgit\\eusecontrol.web\\models\\viewmodels\\quizview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ADED6522-BFC1-4FA6-B732-049B8E9B539F}|..\\eUseControl.Web\\eUseControl.Web.csproj|d:\\uni an 2\\sem 2\\proiectgit\\eusecontrol.web\\models\\quiz\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ADED6522-BFC1-4FA6-B732-049B8E9B539F}|..\\eUseControl.Web\\eUseControl.Web.csproj|d:\\uni an 2\\sem 2\\proiectgit\\eusecontrol.web\\quizhelper\\calculatescore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ADED6522-BFC1-4FA6-B732-049B8E9B539F}|..\\eUseControl.Web\\eUseControl.Web.csproj|d:\\uni an 2\\sem 2\\proiectgit\\eusecontrol.web\\models\\quiz\\quizquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5135AEF5-9A50-478A-BFDA-31A64FE31365}|EnglishCourses.Domain\\EnglishCourses.Domain.csproj|D:\\uni an 2\\sem 2\\ProiectGit\\Proiect-MRSTW\\englishcourses.domain\\entities\\responses\\searchresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5135AEF5-9A50-478A-BFDA-31A64FE31365}|EnglishCourses.Domain\\EnglishCourses.Domain.csproj|solutionrelative:englishcourses.domain\\entities\\responses\\searchresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5135AEF5-9A50-478A-BFDA-31A64FE31365}|EnglishCourses.Domain\\EnglishCourses.Domain.csproj|D:\\uni an 2\\sem 2\\ProiectGit\\Proiect-MRSTW\\englishcourses.domain\\entities\\responses\\quizresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5135AEF5-9A50-478A-BFDA-31A64FE31365}|EnglishCourses.Domain\\EnglishCourses.Domain.csproj|solutionrelative:englishcourses.domain\\entities\\responses\\quizresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ADED6522-BFC1-4FA6-B732-049B8E9B539F}|..\\eUseControl.Web\\eUseControl.Web.csproj|d:\\uni an 2\\sem 2\\proiectgit\\eusecontrol.web\\models\\teacher\\teacherbrief.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ADED6522-BFC1-4FA6-B732-049B8E9B539F}|..\\eUseControl.Web\\eUseControl.Web.csproj|d:\\uni an 2\\sem 2\\proiectgit\\eusecontrol.web\\models\\teacher\\registerteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ADED6522-BFC1-4FA6-B732-049B8E9B539F}|..\\eUseControl.Web\\eUseControl.Web.csproj|d:\\uni an 2\\sem 2\\proiectgit\\eusecontrol.web\\models\\teacher\\editteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5135AEF5-9A50-478A-BFDA-31A64FE31365}|EnglishCourses.Domain\\EnglishCourses.Domain.csproj|D:\\uni an 2\\sem 2\\ProiectGit\\Proiect-MRSTW\\englishcourses.domain\\entities\\teacher\\teacherdbtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -49,48 +28,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{45E68582-445A-4B1B-84D4-07A66A5F5C90}|EnglishCourses.BusinessLogic\\EnglishCourses.BusinessLogic.csproj|D:\\uni an 2\\sem 2\\ProiectGit\\Proiect-MRSTW\\englishcourses.businesslogic\\dbcontext\\teachercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{45E68582-445A-4B1B-84D4-07A66A5F5C90}|EnglishCourses.BusinessLogic\\EnglishCourses.BusinessLogic.csproj|solutionrelative:englishcourses.businesslogic\\dbcontext\\teachercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ADED6522-BFC1-4FA6-B732-049B8E9B539F}|..\\eUseControl.Web\\eUseControl.Web.csproj|d:\\uni an 2\\sem 2\\proiectgit\\eusecontrol.web\\templates\\admin\\plugins\\ckeditor\\samples\\toolbarconfigurator\\lib\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ADED6522-BFC1-4FA6-B732-049B8E9B539F}|..\\eUseControl.Web\\eUseControl.Web.csproj|d:\\uni an 2\\sem 2\\proiectgit\\eusecontrol.web\\templates\\admin\\plugins\\ckeditor\\samples\\toolbarconfigurator\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ADED6522-BFC1-4FA6-B732-049B8E9B539F}|..\\eUseControl.Web\\eUseControl.Web.csproj|d:\\uni an 2\\sem 2\\proiectgit\\eusecontrol.web\\templates\\admin\\fonts\\font-awesome\\css\\font-awesome.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ADED6522-BFC1-4FA6-B732-049B8E9B539F}|..\\eUseControl.Web\\eUseControl.Web.csproj|d:\\uni an 2\\sem 2\\proiectgit\\eusecontrol.web\\templates\\admin\\fonts\\font-awesome\\css\\font-awesome.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ADED6522-BFC1-4FA6-B732-049B8E9B539F}|..\\eUseControl.Web\\eUseControl.Web.csproj|d:\\uni an 2\\sem 2\\proiectgit\\eusecontrol.web\\templates\\admin\\fonts\\font-awesome\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ADED6522-BFC1-4FA6-B732-049B8E9B539F}|..\\eUseControl.Web\\eUseControl.Web.csproj|d:\\uni an 2\\sem 2\\proiectgit\\eusecontrol.web\\templates\\admin\\fonts\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ADED6522-BFC1-4FA6-B732-049B8E9B539F}|..\\eUseControl.Web\\eUseControl.Web.csproj|d:\\uni an 2\\sem 2\\proiectgit\\eusecontrol.web\\templates\\admin\\css\\responsive.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ADED6522-BFC1-4FA6-B732-049B8E9B539F}|..\\eUseControl.Web\\eUseControl.Web.csproj|d:\\uni an 2\\sem 2\\proiectgit\\eusecontrol.web\\templates\\admin\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ADED6522-BFC1-4FA6-B732-049B8E9B539F}|..\\eUseControl.Web\\eUseControl.Web.csproj|d:\\uni an 2\\sem 2\\proiectgit\\eusecontrol.web\\templates\\admin\\css\\animate.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ADED6522-BFC1-4FA6-B732-049B8E9B539F}|..\\eUseControl.Web\\eUseControl.Web.csproj|d:\\uni an 2\\sem 2\\proiectgit\\eusecontrol.web\\templates\\admin\\css\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ADED6522-BFC1-4FA6-B732-049B8E9B539F}|..\\eUseControl.Web\\eUseControl.Web.csproj|d:\\uni an 2\\sem 2\\proiectgit\\eusecontrol.web\\templates\\admin\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ADED6522-BFC1-4FA6-B732-049B8E9B539F}|..\\eUseControl.Web\\eUseControl.Web.csproj|d:\\uni an 2\\sem 2\\proiectgit\\eusecontrol.web\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ADED6522-BFC1-4FA6-B732-049B8E9B539F}|..\\eUseControl.Web\\eUseControl.Web.csproj|d:\\uni an 2\\sem 2\\proiectgit\\eusecontrol.web\\models\\user\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ADED6522-BFC1-4FA6-B732-049B8E9B539F}|..\\eUseControl.Web\\eUseControl.Web.csproj|d:\\uni an 2\\sem 2\\proiectgit\\eusecontrol.web\\attributes\\userattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5135AEF5-9A50-478A-BFDA-31A64FE31365}|EnglishCourses.Domain\\EnglishCourses.Domain.csproj|D:\\uni an 2\\sem 2\\ProiectGit\\Proiect-MRSTW\\englishcourses.domain\\entities\\user\\userminimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -121,52 +58,115 @@
       "RelativeMoniker": "D:0:0:{45E68582-445A-4B1B-84D4-07A66A5F5C90}|EnglishCourses.BusinessLogic\\EnglishCourses.BusinessLogic.csproj|solutionrelative:englishcourses.businesslogic\\core\\userapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ADED6522-BFC1-4FA6-B732-049B8E9B539F}|..\\eUseControl.Web\\eUseControl.Web.csproj|d:\\uni an 2\\sem 2\\proiectgit\\eusecontrol.web\\views\\shared\\homelayout\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\uni an 2\\sem 2\\ProiectGit\\eUseControl.Web\\Templates\\Admin\\plugins\\ckeditor\\samples\\toolbarconfigurator\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ADED6522-BFC1-4FA6-B732-049B8E9B539F}|..\\eUseControl.Web\\eUseControl.Web.csproj|d:\\uni an 2\\sem 2\\proiectgit\\eusecontrol.web\\views\\shared\\homelayout\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\uni an 2\\sem 2\\ProiectGit\\eUseControl.Web\\Templates\\Admin\\plugins\\ckeditor\\samples\\toolbarconfigurator\\lib\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ADED6522-BFC1-4FA6-B732-049B8E9B539F}|..\\eUseControl.Web\\eUseControl.Web.csproj|d:\\uni an 2\\sem 2\\proiectgit\\eusecontrol.web\\views\\shared\\homelayout\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\uni an 2\\sem 2\\ProiectGit\\eUseControl.Web\\Templates\\Admin\\fonts\\font-awesome\\css\\font-awesome.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ADED6522-BFC1-4FA6-B732-049B8E9B539F}|..\\eUseControl.Web\\eUseControl.Web.csproj|d:\\uni an 2\\sem 2\\proiectgit\\eusecontrol.web\\views\\shared\\adminlayout\\_topbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\uni an 2\\sem 2\\ProiectGit\\eUseControl.Web\\Templates\\Admin\\fonts\\font-awesome\\css\\font-awesome.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ADED6522-BFC1-4FA6-B732-049B8E9B539F}|..\\eUseControl.Web\\eUseControl.Web.csproj|d:\\uni an 2\\sem 2\\proiectgit\\eusecontrol.web\\views\\shared\\adminlayout\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\uni an 2\\sem 2\\ProiectGit\\eUseControl.Web\\Templates\\Admin\\fonts\\font-awesome\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ADED6522-BFC1-4FA6-B732-049B8E9B539F}|..\\eUseControl.Web\\eUseControl.Web.csproj|d:\\uni an 2\\sem 2\\proiectgit\\eusecontrol.web\\views\\shared\\adminlayout\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\uni an 2\\sem 2\\ProiectGit\\eUseControl.Web\\Templates\\Admin\\fonts\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ADED6522-BFC1-4FA6-B732-049B8E9B539F}|..\\eUseControl.Web\\eUseControl.Web.csproj|d:\\uni an 2\\sem 2\\proiectgit\\eusecontrol.web\\views\\registration\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\uni an 2\\sem 2\\ProiectGit\\eUseControl.Web\\Templates\\Admin\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ADED6522-BFC1-4FA6-B732-049B8E9B539F}|..\\eUseControl.Web\\eUseControl.Web.csproj|d:\\uni an 2\\sem 2\\proiectgit\\eusecontrol.web\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\uni an 2\\sem 2\\ProiectGit\\eUseControl.Web\\Templates\\Admin\\css\\animate.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ADED6522-BFC1-4FA6-B732-049B8E9B539F}|..\\eUseControl.Web\\eUseControl.Web.csproj|d:\\uni an 2\\sem 2\\proiectgit\\eusecontrol.web\\views\\home\\takequiz.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\uni an 2\\sem 2\\ProiectGit\\eUseControl.Web\\Templates\\Admin\\css\\responsive.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ADED6522-BFC1-4FA6-B732-049B8E9B539F}|..\\eUseControl.Web\\eUseControl.Web.csproj|d:\\uni an 2\\sem 2\\proiectgit\\eusecontrol.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\uni an 2\\sem 2\\ProiectGit\\eUseControl.Web\\Templates\\Admin\\css\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ADED6522-BFC1-4FA6-B732-049B8E9B539F}|..\\eUseControl.Web\\eUseControl.Web.csproj|d:\\uni an 2\\sem 2\\proiectgit\\eusecontrol.web\\views\\home\\coursesuggestion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\uni an 2\\sem 2\\ProiectGit\\eUseControl.Web\\Templates\\Admin\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ADED6522-BFC1-4FA6-B732-049B8E9B539F}|..\\eUseControl.Web\\eUseControl.Web.csproj|d:\\uni an 2\\sem 2\\proiectgit\\eusecontrol.web\\views\\home\\courses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{ADED6522-BFC1-4FA6-B732-049B8E9B539F}|..\\eUseControl.Web\\eUseControl.Web.csproj|D:\\uni an 2\\sem 2\\ProiectGit\\eUseControl.Web\\Models\\ViewModels\\QuizView.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ADED6522-BFC1-4FA6-B732-049B8E9B539F}|..\\eUseControl.Web\\eUseControl.Web.csproj|d:\\uni an 2\\sem 2\\proiectgit\\eusecontrol.web\\views\\home\\coursedetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{ADED6522-BFC1-4FA6-B732-049B8E9B539F}|..\\eUseControl.Web\\eUseControl.Web.csproj|D:\\uni an 2\\sem 2\\ProiectGit\\eUseControl.Web\\Models\\Quiz\\Score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ADED6522-BFC1-4FA6-B732-049B8E9B539F}|..\\eUseControl.Web\\eUseControl.Web.csproj|d:\\uni an 2\\sem 2\\proiectgit\\eusecontrol.web\\views\\home\\coursecontent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{ADED6522-BFC1-4FA6-B732-049B8E9B539F}|..\\eUseControl.Web\\eUseControl.Web.csproj|D:\\uni an 2\\sem 2\\ProiectGit\\eUseControl.Web\\Models\\Quiz\\QuizQuestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ADED6522-BFC1-4FA6-B732-049B8E9B539F}|..\\eUseControl.Web\\eUseControl.Web.csproj|d:\\uni an 2\\sem 2\\proiectgit\\eusecontrol.web\\views\\admin\\editteacher.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{ADED6522-BFC1-4FA6-B732-049B8E9B539F}|..\\eUseControl.Web\\eUseControl.Web.csproj|D:\\uni an 2\\sem 2\\ProiectGit\\eUseControl.Web\\QuizHelper\\CalculateScore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ADED6522-BFC1-4FA6-B732-049B8E9B539F}|..\\eUseControl.Web\\eUseControl.Web.csproj|d:\\uni an 2\\sem 2\\proiectgit\\eusecontrol.web\\views\\admin\\coursedetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{ADED6522-BFC1-4FA6-B732-049B8E9B539F}|..\\eUseControl.Web\\eUseControl.Web.csproj|D:\\uni an 2\\sem 2\\ProiectGit\\eUseControl.Web\\Models\\Teacher\\TeacherBrief.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADED6522-BFC1-4FA6-B732-049B8E9B539F}|..\\eUseControl.Web\\eUseControl.Web.csproj|D:\\uni an 2\\sem 2\\ProiectGit\\eUseControl.Web\\Models\\Teacher\\RegisterTeacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADED6522-BFC1-4FA6-B732-049B8E9B539F}|..\\eUseControl.Web\\eUseControl.Web.csproj|D:\\uni an 2\\sem 2\\ProiectGit\\eUseControl.Web\\Models\\Teacher\\EditTeacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADED6522-BFC1-4FA6-B732-049B8E9B539F}|..\\eUseControl.Web\\eUseControl.Web.csproj|D:\\uni an 2\\sem 2\\ProiectGit\\eUseControl.Web\\Controllers\\LoginController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADED6522-BFC1-4FA6-B732-049B8E9B539F}|..\\eUseControl.Web\\eUseControl.Web.csproj|D:\\uni an 2\\sem 2\\ProiectGit\\eUseControl.Web\\Models\\User\\UserLogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADED6522-BFC1-4FA6-B732-049B8E9B539F}|..\\eUseControl.Web\\eUseControl.Web.csproj|D:\\uni an 2\\sem 2\\ProiectGit\\eUseControl.Web\\Attributes\\UserAttribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADED6522-BFC1-4FA6-B732-049B8E9B539F}|..\\eUseControl.Web\\eUseControl.Web.csproj|D:\\uni an 2\\sem 2\\ProiectGit\\eUseControl.Web\\Views\\Shared\\HomeLayout\\_Navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADED6522-BFC1-4FA6-B732-049B8E9B539F}|..\\eUseControl.Web\\eUseControl.Web.csproj|D:\\uni an 2\\sem 2\\ProiectGit\\eUseControl.Web\\Views\\Shared\\HomeLayout\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADED6522-BFC1-4FA6-B732-049B8E9B539F}|..\\eUseControl.Web\\eUseControl.Web.csproj|D:\\uni an 2\\sem 2\\ProiectGit\\eUseControl.Web\\Views\\Shared\\HomeLayout\\_Footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADED6522-BFC1-4FA6-B732-049B8E9B539F}|..\\eUseControl.Web\\eUseControl.Web.csproj|D:\\uni an 2\\sem 2\\ProiectGit\\eUseControl.Web\\Views\\Shared\\AdminLayout\\_Topbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADED6522-BFC1-4FA6-B732-049B8E9B539F}|..\\eUseControl.Web\\eUseControl.Web.csproj|D:\\uni an 2\\sem 2\\ProiectGit\\eUseControl.Web\\Views\\Shared\\AdminLayout\\_Sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADED6522-BFC1-4FA6-B732-049B8E9B539F}|..\\eUseControl.Web\\eUseControl.Web.csproj|D:\\uni an 2\\sem 2\\ProiectGit\\eUseControl.Web\\Views\\Shared\\AdminLayout\\_AdminLayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADED6522-BFC1-4FA6-B732-049B8E9B539F}|..\\eUseControl.Web\\eUseControl.Web.csproj|D:\\uni an 2\\sem 2\\ProiectGit\\eUseControl.Web\\Views\\Registration\\Register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADED6522-BFC1-4FA6-B732-049B8E9B539F}|..\\eUseControl.Web\\eUseControl.Web.csproj|D:\\uni an 2\\sem 2\\ProiectGit\\eUseControl.Web\\Views\\Login\\Login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADED6522-BFC1-4FA6-B732-049B8E9B539F}|..\\eUseControl.Web\\eUseControl.Web.csproj|D:\\uni an 2\\sem 2\\ProiectGit\\eUseControl.Web\\Views\\Home\\TakeQuiz.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADED6522-BFC1-4FA6-B732-049B8E9B539F}|..\\eUseControl.Web\\eUseControl.Web.csproj|D:\\uni an 2\\sem 2\\ProiectGit\\eUseControl.Web\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADED6522-BFC1-4FA6-B732-049B8E9B539F}|..\\eUseControl.Web\\eUseControl.Web.csproj|D:\\uni an 2\\sem 2\\ProiectGit\\eUseControl.Web\\Views\\Home\\CourseSuggestion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADED6522-BFC1-4FA6-B732-049B8E9B539F}|..\\eUseControl.Web\\eUseControl.Web.csproj|D:\\uni an 2\\sem 2\\ProiectGit\\eUseControl.Web\\Views\\Home\\Courses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADED6522-BFC1-4FA6-B732-049B8E9B539F}|..\\eUseControl.Web\\eUseControl.Web.csproj|D:\\uni an 2\\sem 2\\ProiectGit\\eUseControl.Web\\Views\\Home\\CourseDetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADED6522-BFC1-4FA6-B732-049B8E9B539F}|..\\eUseControl.Web\\eUseControl.Web.csproj|D:\\uni an 2\\sem 2\\ProiectGit\\eUseControl.Web\\Views\\Home\\CourseContent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADED6522-BFC1-4FA6-B732-049B8E9B539F}|..\\eUseControl.Web\\eUseControl.Web.csproj|D:\\uni an 2\\sem 2\\ProiectGit\\eUseControl.Web\\Views\\Admin\\EditTeacher.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADED6522-BFC1-4FA6-B732-049B8E9B539F}|..\\eUseControl.Web\\eUseControl.Web.csproj|D:\\uni an 2\\sem 2\\ProiectGit\\eUseControl.Web\\Views\\Admin\\CourseDetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -204,7 +204,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 25,
               "Title": "QuizView.cs",
               "DocumentMoniker": "D:\\uni an 2\\sem 2\\ProiectGit\\eUseControl.Web\\Models\\ViewModels\\QuizView.cs",
               "RelativeDocumentMoniker": "..\\eUseControl.Web\\Models\\ViewModels\\QuizView.cs",
@@ -216,7 +216,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 26,
               "Title": "Score.cs",
               "DocumentMoniker": "D:\\uni an 2\\sem 2\\ProiectGit\\eUseControl.Web\\Models\\Quiz\\Score.cs",
               "RelativeDocumentMoniker": "..\\eUseControl.Web\\Models\\Quiz\\Score.cs",
@@ -228,7 +228,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 27,
               "Title": "QuizQuestion.cs",
               "DocumentMoniker": "D:\\uni an 2\\sem 2\\ProiectGit\\eUseControl.Web\\Models\\Quiz\\QuizQuestion.cs",
               "RelativeDocumentMoniker": "..\\eUseControl.Web\\Models\\Quiz\\QuizQuestion.cs",
@@ -253,7 +253,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 28,
               "Title": "CalculateScore.cs",
               "DocumentMoniker": "D:\\uni an 2\\sem 2\\ProiectGit\\eUseControl.Web\\QuizHelper\\CalculateScore.cs",
               "RelativeDocumentMoniker": "..\\eUseControl.Web\\QuizHelper\\CalculateScore.cs",
@@ -265,7 +265,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "SearchResponse.cs",
               "DocumentMoniker": "D:\\uni an 2\\sem 2\\ProiectGit\\Proiect-MRSTW\\EnglishCourses.Domain\\Entities\\Responses\\SearchResponse.cs",
               "RelativeDocumentMoniker": "EnglishCourses.Domain\\Entities\\Responses\\SearchResponse.cs",
@@ -277,7 +277,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "QuizResponse.cs",
               "DocumentMoniker": "D:\\uni an 2\\sem 2\\ProiectGit\\Proiect-MRSTW\\EnglishCourses.Domain\\Entities\\Responses\\QuizResponse.cs",
               "RelativeDocumentMoniker": "EnglishCourses.Domain\\Entities\\Responses\\QuizResponse.cs",
@@ -289,7 +289,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 29,
               "Title": "TeacherBrief.cs",
               "DocumentMoniker": "D:\\uni an 2\\sem 2\\ProiectGit\\eUseControl.Web\\Models\\Teacher\\TeacherBrief.cs",
               "RelativeDocumentMoniker": "..\\eUseControl.Web\\Models\\Teacher\\TeacherBrief.cs",
@@ -301,7 +301,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 30,
               "Title": "RegisterTeacher.cs",
               "DocumentMoniker": "D:\\uni an 2\\sem 2\\ProiectGit\\eUseControl.Web\\Models\\Teacher\\RegisterTeacher.cs",
               "RelativeDocumentMoniker": "..\\eUseControl.Web\\Models\\Teacher\\RegisterTeacher.cs",
@@ -313,7 +313,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 31,
               "Title": "EditTeacher.cs",
               "DocumentMoniker": "D:\\uni an 2\\sem 2\\ProiectGit\\eUseControl.Web\\Models\\Teacher\\EditTeacher.cs",
               "RelativeDocumentMoniker": "..\\eUseControl.Web\\Models\\Teacher\\EditTeacher.cs",
@@ -325,7 +325,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 3,
               "Title": "TeacherDbTable.cs",
               "DocumentMoniker": "D:\\uni an 2\\sem 2\\ProiectGit\\Proiect-MRSTW\\EnglishCourses.Domain\\Entities\\Teacher\\TeacherDbTable.cs",
               "RelativeDocumentMoniker": "EnglishCourses.Domain\\Entities\\Teacher\\TeacherDbTable.cs",
@@ -337,7 +337,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 4,
               "Title": "RegisterTeacherData.cs",
               "DocumentMoniker": "D:\\uni an 2\\sem 2\\ProiectGit\\Proiect-MRSTW\\EnglishCourses.Domain\\Entities\\Teacher\\RegisterTeacherData.cs",
               "RelativeDocumentMoniker": "EnglishCourses.Domain\\Entities\\Teacher\\RegisterTeacherData.cs",
@@ -349,7 +349,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 5,
               "Title": "EditTeacherData.cs",
               "DocumentMoniker": "D:\\uni an 2\\sem 2\\ProiectGit\\Proiect-MRSTW\\EnglishCourses.Domain\\Entities\\Teacher\\EditTeacherData.cs",
               "RelativeDocumentMoniker": "EnglishCourses.Domain\\Entities\\Teacher\\EditTeacherData.cs",
@@ -361,7 +361,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 6,
               "Title": "TeacherContext.cs",
               "DocumentMoniker": "D:\\uni an 2\\sem 2\\ProiectGit\\Proiect-MRSTW\\EnglishCourses.BusinessLogic\\DBContext\\TeacherContext.cs",
               "RelativeDocumentMoniker": "EnglishCourses.BusinessLogic\\DBContext\\TeacherContext.cs",
@@ -373,7 +373,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 14,
               "Title": "index.html",
               "DocumentMoniker": "D:\\uni an 2\\sem 2\\ProiectGit\\eUseControl.Web\\Templates\\Admin\\plugins\\ckeditor\\samples\\toolbarconfigurator\\index.html",
               "RelativeDocumentMoniker": "..\\eUseControl.Web\\Templates\\Admin\\plugins\\ckeditor\\samples\\toolbarconfigurator\\index.html",
@@ -385,7 +385,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "index.html",
               "DocumentMoniker": "D:\\uni an 2\\sem 2\\ProiectGit\\eUseControl.Web\\Templates\\Admin\\plugins\\ckeditor\\samples\\toolbarconfigurator\\lib\\index.html",
               "RelativeDocumentMoniker": "..\\eUseControl.Web\\Templates\\Admin\\plugins\\ckeditor\\samples\\toolbarconfigurator\\lib\\index.html",
@@ -445,7 +445,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 20,
               "Title": "style.css",
               "DocumentMoniker": "D:\\uni an 2\\sem 2\\ProiectGit\\eUseControl.Web\\Templates\\Admin\\css\\style.css",
               "RelativeDocumentMoniker": "..\\eUseControl.Web\\Templates\\Admin\\css\\style.css",
@@ -457,7 +457,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 21,
               "Title": "animate.min.css",
               "DocumentMoniker": "D:\\uni an 2\\sem 2\\ProiectGit\\eUseControl.Web\\Templates\\Admin\\css\\animate.min.css",
               "RelativeDocumentMoniker": "..\\eUseControl.Web\\Templates\\Admin\\css\\animate.min.css",
@@ -469,7 +469,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "responsive.css",
               "DocumentMoniker": "D:\\uni an 2\\sem 2\\ProiectGit\\eUseControl.Web\\Templates\\Admin\\css\\responsive.css",
               "RelativeDocumentMoniker": "..\\eUseControl.Web\\Templates\\Admin\\css\\responsive.css",
@@ -505,7 +505,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 32,
               "Title": "LoginController.cs",
               "DocumentMoniker": "D:\\uni an 2\\sem 2\\ProiectGit\\eUseControl.Web\\Controllers\\LoginController.cs",
               "RelativeDocumentMoniker": "..\\eUseControl.Web\\Controllers\\LoginController.cs",
@@ -517,7 +517,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 33,
               "Title": "UserLogin.cs",
               "DocumentMoniker": "D:\\uni an 2\\sem 2\\ProiectGit\\eUseControl.Web\\Models\\User\\UserLogin.cs",
               "RelativeDocumentMoniker": "..\\eUseControl.Web\\Models\\User\\UserLogin.cs",
@@ -529,7 +529,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 34,
               "Title": "UserAttribute.cs",
               "DocumentMoniker": "D:\\uni an 2\\sem 2\\ProiectGit\\eUseControl.Web\\Attributes\\UserAttribute.cs",
               "RelativeDocumentMoniker": "..\\eUseControl.Web\\Attributes\\UserAttribute.cs",
@@ -541,7 +541,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 7,
               "Title": "UserMinimal.cs",
               "DocumentMoniker": "D:\\uni an 2\\sem 2\\ProiectGit\\Proiect-MRSTW\\EnglishCourses.Domain\\Entities\\User\\UserMinimal.cs",
               "RelativeDocumentMoniker": "EnglishCourses.Domain\\Entities\\User\\UserMinimal.cs",
@@ -553,7 +553,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 8,
               "Title": "URegisterData.cs",
               "DocumentMoniker": "D:\\uni an 2\\sem 2\\ProiectGit\\Proiect-MRSTW\\EnglishCourses.Domain\\Entities\\User\\URegisterData.cs",
               "RelativeDocumentMoniker": "EnglishCourses.Domain\\Entities\\User\\URegisterData.cs",
@@ -565,7 +565,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 9,
               "Title": "ULoginData.cs",
               "DocumentMoniker": "D:\\uni an 2\\sem 2\\ProiectGit\\Proiect-MRSTW\\EnglishCourses.Domain\\Entities\\User\\ULoginData.cs",
               "RelativeDocumentMoniker": "EnglishCourses.Domain\\Entities\\User\\ULoginData.cs",
@@ -577,7 +577,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 10,
               "Title": "UDbTable.cs",
               "DocumentMoniker": "D:\\uni an 2\\sem 2\\ProiectGit\\Proiect-MRSTW\\EnglishCourses.Domain\\Entities\\User\\UDbTable.cs",
               "RelativeDocumentMoniker": "EnglishCourses.Domain\\Entities\\User\\UDbTable.cs",
@@ -589,7 +589,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 11,
               "Title": "Session.cs",
               "DocumentMoniker": "D:\\uni an 2\\sem 2\\ProiectGit\\Proiect-MRSTW\\EnglishCourses.Domain\\Entities\\User\\Session.cs",
               "RelativeDocumentMoniker": "EnglishCourses.Domain\\Entities\\User\\Session.cs",
@@ -601,7 +601,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 12,
               "Title": "UserContext.cs",
               "DocumentMoniker": "D:\\uni an 2\\sem 2\\ProiectGit\\Proiect-MRSTW\\EnglishCourses.BusinessLogic\\DBContext\\UserContext.cs",
               "RelativeDocumentMoniker": "EnglishCourses.BusinessLogic\\DBContext\\UserContext.cs",
@@ -613,7 +613,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 13,
               "Title": "UserAPI.cs",
               "DocumentMoniker": "D:\\uni an 2\\sem 2\\ProiectGit\\Proiect-MRSTW\\EnglishCourses.BusinessLogic\\Core\\UserAPI.cs",
               "RelativeDocumentMoniker": "EnglishCourses.BusinessLogic\\Core\\UserAPI.cs",

@@ -38,6 +38,9 @@
     <Reference Include="Antlr3.Runtime, Version=3.4.1.9004, Culture=neutral, PublicKeyToken=eb42632606e9261f, processorArchitecture=MSIL">
       <HintPath>..\packages\Antlr.3.4.1.9004\lib\Antlr3.Runtime.dll</HintPath>
     </Reference>
+    <Reference Include="AutoMapper, Version=6.2.2.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005, processorArchitecture=MSIL">
+      <HintPath>..\packages\AutoMapper.6.2.2\lib\net45\AutoMapper.dll</HintPath>
+    </Reference>
     <Reference Include="BCrypt.Net, Version=0.1.4141.31969, Culture=neutral, PublicKeyToken=f3bc8f8c31beeb49, processorArchitecture=MSIL">
       <HintPath>..\packages\BCrypt.Net.0.1.0\lib\net35\BCrypt.Net.dll</HintPath>
     </Reference>
@@ -56,6 +59,7 @@
     <Reference Include="System" />
     <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
     <Reference Include="System.Web" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
@@ -69,6 +73,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BussinesLogical.cs" />
+    <Compile Include="Core\AdminAPI.cs" />
     <Compile Include="Core\ServiceAPI.cs" />
     <Compile Include="Core\UserAPI.cs" />
     <Compile Include="DBContext\CourseContext.cs" />
@@ -78,6 +83,7 @@
     <Compile Include="Interface\IAdministration.cs" />
     <Compile Include="Interface\IService.cs" />
     <Compile Include="Interface\ISession.cs" />
+    <Compile Include="MainBL\AdministrationBL.cs" />
     <Compile Include="MainBL\ServiceBL.cs" />
     <Compile Include="MainBL\SessionBL.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
