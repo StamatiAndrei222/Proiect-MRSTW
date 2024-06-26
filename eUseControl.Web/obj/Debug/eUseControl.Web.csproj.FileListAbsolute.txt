@@ -121,8 +121,6 @@ D:\uni an 2\sem 2\ProiectGit\eUseControl.Web\bin\System.Web.Razor.xml
 D:\uni an 2\sem 2\ProiectGit\eUseControl.Web\bin\System.Web.WebPages.xml
 D:\uni an 2\sem 2\ProiectGit\eUseControl.Web\bin\System.Web.WebPages.Deployment.xml
 D:\uni an 2\sem 2\ProiectGit\eUseControl.Web\bin\System.Web.WebPages.Razor.xml
-D:\uni an 2\sem 2\ProiectGit\eUseControl.Web\obj\Debug\eUseControl.Web.csproj.AssemblyReference.cache
-D:\uni an 2\sem 2\ProiectGit\eUseControl.Web\obj\Debug\eUseControl.Web.csproj.CoreCompileInputs.cache
 D:\uni an 2\sem 2\ProiectGit\eUseControl.Web\obj\Debug\eUseCont.507825D9.Up2Date
 >>>>>>> Stashed changes
 D:\uni an 2\sem 2\ProiectGit\eUseControl.Web\obj\Debug\eUseControl.Web.dll

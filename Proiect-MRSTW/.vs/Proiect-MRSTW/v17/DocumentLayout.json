@@ -18,11 +18,11 @@
       "AbsoluteMoniker": "D:0:0:{ADED6522-BFC1-4FA6-B732-049B8E9B539F}|..\\eUseControl.Web\\eUseControl.Web.csproj|d:\\uni an 2\\sem 2\\proiectgit\\eusecontrol.web\\models\\quiz\\quizquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5135AEF5-9A50-478A-BFDA-31A64FE31365}|EnglishCourses.Domain\\EnglishCourses.Domain.csproj|d:\\uni an 2\\sem 2\\proiectgit\\proiect-mrstw\\englishcourses.domain\\entities\\responses\\searchresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5135AEF5-9A50-478A-BFDA-31A64FE31365}|EnglishCourses.Domain\\EnglishCourses.Domain.csproj|D:\\uni an 2\\sem 2\\ProiectGit\\Proiect-MRSTW\\englishcourses.domain\\entities\\responses\\searchresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5135AEF5-9A50-478A-BFDA-31A64FE31365}|EnglishCourses.Domain\\EnglishCourses.Domain.csproj|solutionrelative:englishcourses.domain\\entities\\responses\\searchresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5135AEF5-9A50-478A-BFDA-31A64FE31365}|EnglishCourses.Domain\\EnglishCourses.Domain.csproj|d:\\uni an 2\\sem 2\\proiectgit\\proiect-mrstw\\englishcourses.domain\\entities\\responses\\quizresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5135AEF5-9A50-478A-BFDA-31A64FE31365}|EnglishCourses.Domain\\EnglishCourses.Domain.csproj|D:\\uni an 2\\sem 2\\ProiectGit\\Proiect-MRSTW\\englishcourses.domain\\entities\\responses\\quizresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5135AEF5-9A50-478A-BFDA-31A64FE31365}|EnglishCourses.Domain\\EnglishCourses.Domain.csproj|solutionrelative:englishcourses.domain\\entities\\responses\\quizresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -176,7 +176,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -204,19 +204,6 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CalculateScore.cs",
-              "DocumentMoniker": "D:\\uni an 2\\sem 2\\ProiectGit\\eUseControl.Web\\QuizHelper\\CalculateScore.cs",
-              "RelativeDocumentMoniker": "..\\eUseControl.Web\\QuizHelper\\CalculateScore.cs",
-              "ToolTip": "D:\\uni an 2\\sem 2\\ProiectGit\\eUseControl.Web\\QuizHelper\\CalculateScore.cs",
-              "RelativeToolTip": "..\\eUseControl.Web\\QuizHelper\\CalculateScore.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T16:30:21.561Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "QuizView.cs",
               "DocumentMoniker": "D:\\uni an 2\\sem 2\\ProiectGit\\eUseControl.Web\\Models\\ViewModels\\QuizView.cs",
@@ -225,8 +212,7 @@
               "RelativeToolTip": "..\\eUseControl.Web\\Models\\ViewModels\\QuizView.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T16:25:31.048Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-26T16:25:31.048Z"
             },
             {
               "$type": "Document",
@@ -238,8 +224,7 @@
               "RelativeToolTip": "..\\eUseControl.Web\\Models\\Quiz\\Score.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T16:23:45.286Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-26T16:23:45.286Z"
             },
             {
               "$type": "Document",
@@ -251,8 +236,7 @@
               "RelativeToolTip": "..\\eUseControl.Web\\Models\\Quiz\\QuizQuestion.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T16:23:30.497Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-26T16:23:30.497Z"
             },
             {
               "$type": "Document",
@@ -269,6 +253,18 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CalculateScore.cs",
+              "DocumentMoniker": "D:\\uni an 2\\sem 2\\ProiectGit\\eUseControl.Web\\QuizHelper\\CalculateScore.cs",
+              "RelativeDocumentMoniker": "..\\eUseControl.Web\\QuizHelper\\CalculateScore.cs",
+              "ToolTip": "D:\\uni an 2\\sem 2\\ProiectGit\\eUseControl.Web\\QuizHelper\\CalculateScore.cs",
+              "RelativeToolTip": "..\\eUseControl.Web\\QuizHelper\\CalculateScore.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T16:30:21.561Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
               "Title": "SearchResponse.cs",
               "DocumentMoniker": "D:\\uni an 2\\sem 2\\ProiectGit\\Proiect-MRSTW\\EnglishCourses.Domain\\Entities\\Responses\\SearchResponse.cs",
@@ -277,8 +273,7 @@
               "RelativeToolTip": "EnglishCourses.Domain\\Entities\\Responses\\SearchResponse.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T16:21:22.735Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-26T16:21:22.735Z"
             },
             {
               "$type": "Document",
@@ -290,8 +285,7 @@
               "RelativeToolTip": "EnglishCourses.Domain\\Entities\\Responses\\QuizResponse.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T16:21:05.312Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-26T16:21:05.312Z"
             },
             {
               "$type": "Document",
@@ -303,8 +297,7 @@
               "RelativeToolTip": "..\\eUseControl.Web\\Models\\Teacher\\TeacherBrief.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T16:16:34.494Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-26T16:16:34.494Z"
             },
             {
               "$type": "Document",
