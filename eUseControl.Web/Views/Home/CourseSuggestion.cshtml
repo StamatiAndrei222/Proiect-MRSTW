@@ -18,12 +18,12 @@
                     <a class="courses-list-item position-relative d-block overflow-hidden mb-2" href="@Url.Action("CourseDetails","Home", new {id = Model.Course.Id})">
                         <img class="img-fluid rounded" src="data:image;base64,@Model.Course.DisplayImage" alt="@Model.Course.Title" style="max-height: 300px; width: auto;">
                     </a>
-                        </div>
+                </div>
                 <h4 class="card-title">@Model.Course.Title</h4>
                 <p class="card-text">@Model.Course.Description</p>
                 <p class="card-text"><strong>Category:</strong> @Model.Course.Category</p>
                 <p class="card-text"><strong>Teacher Name:</strong> @Model.Course.TeacherName</p>
-                
+
             </div>
         </div>
     }
