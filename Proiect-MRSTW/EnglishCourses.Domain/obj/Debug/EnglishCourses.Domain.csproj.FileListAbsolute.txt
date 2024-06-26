@@ -34,3 +34,5 @@ C:\Users\User\Documents\Anul 2\ProiectGitDesktop\Proiect-MRSTW\Proiect-MRSTW\Eng
 C:\Users\User\Documents\Anul 2\ProiectGitDesktop\Proiect-MRSTW\Proiect-MRSTW\EnglishCourses.Domain\obj\Debug\EnglishCourses.Domain.csproj.CopyComplete
 C:\Users\User\Documents\Anul 2\ProiectGitDesktop\Proiect-MRSTW\Proiect-MRSTW\EnglishCourses.Domain\obj\Debug\EnglishCourses.Domain.dll
 C:\Users\User\Documents\Anul 2\ProiectGitDesktop\Proiect-MRSTW\Proiect-MRSTW\EnglishCourses.Domain\obj\Debug\EnglishCourses.Domain.pdb
+C:\Users\User\Documents\Anul 2\ProiectGitDesktop\Proiect-MRSTW\Proiect-MRSTW\EnglishCourses.Domain\bin\Debug\AutoMapper.dll
+C:\Users\User\Documents\Anul 2\ProiectGitDesktop\Proiect-MRSTW\Proiect-MRSTW\EnglishCourses.Domain\bin\Debug\AutoMapper.xml

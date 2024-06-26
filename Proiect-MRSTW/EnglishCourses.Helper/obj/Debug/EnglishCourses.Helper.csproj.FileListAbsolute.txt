@@ -28,3 +28,5 @@ C:\Users\User\Documents\Anul 2\ProiectGitDesktop\Proiect-MRSTW\Proiect-MRSTW\Eng
 C:\Users\User\Documents\Anul 2\ProiectGitDesktop\Proiect-MRSTW\Proiect-MRSTW\EnglishCourses.Helper\obj\Debug\EnglishCourses.Helper.csproj.CopyComplete
 C:\Users\User\Documents\Anul 2\ProiectGitDesktop\Proiect-MRSTW\Proiect-MRSTW\EnglishCourses.Helper\obj\Debug\EnglishCourses.Helper.dll
 C:\Users\User\Documents\Anul 2\ProiectGitDesktop\Proiect-MRSTW\Proiect-MRSTW\EnglishCourses.Helper\obj\Debug\EnglishCourses.Helper.pdb
+C:\Users\User\Documents\Anul 2\ProiectGitDesktop\Proiect-MRSTW\Proiect-MRSTW\EnglishCourses.Helper\bin\Debug\AutoMapper.dll
+C:\Users\User\Documents\Anul 2\ProiectGitDesktop\Proiect-MRSTW\Proiect-MRSTW\EnglishCourses.Helper\bin\Debug\AutoMapper.xml
