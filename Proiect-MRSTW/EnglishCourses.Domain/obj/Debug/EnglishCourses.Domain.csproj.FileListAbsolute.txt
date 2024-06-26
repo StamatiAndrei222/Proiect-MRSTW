@@ -13,3 +13,24 @@ D:\uni an 2\sem 2\ProiectGit\Proiect-MRSTW\EnglishCourses.Domain\bin\Debug\Entit
 D:\uni an 2\sem 2\ProiectGit\Proiect-MRSTW\EnglishCourses.Domain\obj\Debug\EnglishC.87CE90C2.Up2Date
 D:\uni an 2\sem 2\ProiectGit\Proiect-MRSTW\EnglishCourses.Domain\obj\Debug\EnglishCourses.Domain.dll
 D:\uni an 2\sem 2\ProiectGit\Proiect-MRSTW\EnglishCourses.Domain\obj\Debug\EnglishCourses.Domain.pdb
+C:\Users\User\Documents\Anul 2\ProiectGitDesktop\Proiect-MRSTW\Proiect-MRSTW\EnglishCourses.Domain\bin\Debug\EnglishCourses.Domain.dll.config
+C:\Users\User\Documents\Anul 2\ProiectGitDesktop\Proiect-MRSTW\Proiect-MRSTW\EnglishCourses.Domain\bin\Debug\EnglishCourses.Domain.dll
+C:\Users\User\Documents\Anul 2\ProiectGitDesktop\Proiect-MRSTW\Proiect-MRSTW\EnglishCourses.Domain\bin\Debug\EnglishCourses.Domain.pdb
+C:\Users\User\Documents\Anul 2\ProiectGitDesktop\Proiect-MRSTW\Proiect-MRSTW\EnglishCourses.Domain\bin\Debug\Antlr3.Runtime.dll
+C:\Users\User\Documents\Anul 2\ProiectGitDesktop\Proiect-MRSTW\Proiect-MRSTW\EnglishCourses.Domain\bin\Debug\EnglishCourses.Helper.dll
+C:\Users\User\Documents\Anul 2\ProiectGitDesktop\Proiect-MRSTW\Proiect-MRSTW\EnglishCourses.Domain\bin\Debug\EntityFramework.dll
+C:\Users\User\Documents\Anul 2\ProiectGitDesktop\Proiect-MRSTW\Proiect-MRSTW\EnglishCourses.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Documents\Anul 2\ProiectGitDesktop\Proiect-MRSTW\Proiect-MRSTW\EnglishCourses.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Documents\Anul 2\ProiectGitDesktop\Proiect-MRSTW\Proiect-MRSTW\EnglishCourses.Domain\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Documents\Anul 2\ProiectGitDesktop\Proiect-MRSTW\Proiect-MRSTW\EnglishCourses.Domain\bin\Debug\WebGrease.dll
+C:\Users\User\Documents\Anul 2\ProiectGitDesktop\Proiect-MRSTW\Proiect-MRSTW\EnglishCourses.Domain\bin\Debug\EnglishCourses.Helper.pdb
+C:\Users\User\Documents\Anul 2\ProiectGitDesktop\Proiect-MRSTW\Proiect-MRSTW\EnglishCourses.Domain\bin\Debug\EnglishCourses.Helper.dll.config
+C:\Users\User\Documents\Anul 2\ProiectGitDesktop\Proiect-MRSTW\Proiect-MRSTW\EnglishCourses.Domain\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\User\Documents\Anul 2\ProiectGitDesktop\Proiect-MRSTW\Proiect-MRSTW\EnglishCourses.Domain\bin\Debug\EntityFramework.xml
+C:\Users\User\Documents\Anul 2\ProiectGitDesktop\Proiect-MRSTW\Proiect-MRSTW\EnglishCourses.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Documents\Anul 2\ProiectGitDesktop\Proiect-MRSTW\Proiect-MRSTW\EnglishCourses.Domain\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Documents\Anul 2\ProiectGitDesktop\Proiect-MRSTW\Proiect-MRSTW\EnglishCourses.Domain\obj\Debug\EnglishCourses.Domain.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Anul 2\ProiectGitDesktop\Proiect-MRSTW\Proiect-MRSTW\EnglishCourses.Domain\obj\Debug\EnglishCourses.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Anul 2\ProiectGitDesktop\Proiect-MRSTW\Proiect-MRSTW\EnglishCourses.Domain\obj\Debug\EnglishCourses.Domain.csproj.CopyComplete
+C:\Users\User\Documents\Anul 2\ProiectGitDesktop\Proiect-MRSTW\Proiect-MRSTW\EnglishCourses.Domain\obj\Debug\EnglishCourses.Domain.dll
+C:\Users\User\Documents\Anul 2\ProiectGitDesktop\Proiect-MRSTW\Proiect-MRSTW\EnglishCourses.Domain\obj\Debug\EnglishCourses.Domain.pdb

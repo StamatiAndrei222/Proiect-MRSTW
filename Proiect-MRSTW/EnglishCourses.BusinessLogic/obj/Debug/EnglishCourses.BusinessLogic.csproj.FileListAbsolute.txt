@@ -1,2 +1,4 @@
 D:\uni an 2\sem 2\ProiectGit\Proiect-MRSTW\EnglishCourses.BusinessLogic\obj\Debug\EnglishCourses.BusinessLogic.csproj.AssemblyReference.cache
 D:\uni an 2\sem 2\ProiectGit\Proiect-MRSTW\EnglishCourses.BusinessLogic\obj\Debug\EnglishCourses.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Anul 2\ProiectGitDesktop\Proiect-MRSTW\Proiect-MRSTW\EnglishCourses.BusinessLogic\obj\Debug\EnglishCourses.BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Anul 2\ProiectGitDesktop\Proiect-MRSTW\Proiect-MRSTW\EnglishCourses.BusinessLogic\obj\Debug\EnglishCourses.BusinessLogic.csproj.CoreCompileInputs.cache

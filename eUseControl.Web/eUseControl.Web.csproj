@@ -1073,10 +1073,14 @@
   <ItemGroup>
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Attributes\AdminAttribute.cs" />
     <Compile Include="Attributes\UserAttribute.cs" />
+    <Compile Include="Controllers\AdminController.cs" />
+    <Compile Include="Controllers\BaseController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\LoginController.cs" />
     <Compile Include="Controllers\RegistrationController.cs" />
+    <Compile Include="Extension\HttpContextExtensions.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -1098,10 +1102,18 @@
     <Compile Include="Models\Teacher\TeacherBrief.cs" />
     <Compile Include="Models\User\UserLogin.cs" />
     <Compile Include="Models\User\UserRegistration.cs" />
+    <Compile Include="Models\ViewModelsAdmin\AdminCoursesView.cs" />
+    <Compile Include="Models\ViewModelsAdmin\AdminCourseView.cs" />
+    <Compile Include="Models\ViewModelsAdmin\AdminEditChapterView.cs" />
+    <Compile Include="Models\ViewModelsAdmin\AdminEditTeacherView.cs" />
+    <Compile Include="Models\ViewModelsAdmin\AdminHomeView.cs" />
+    <Compile Include="Models\ViewModelsAdmin\AdminNavbarView.cs" />
+    <Compile Include="Models\ViewModelsAdmin\AdminTeachersView.cs" />
     <Compile Include="Models\ViewModels\CourseContentView.cs" />
     <Compile Include="Models\ViewModels\CourseDetailsView.cs" />
     <Compile Include="Models\ViewModels\CourseSuggestionView.cs" />
     <Compile Include="Models\ViewModels\CoursesView.cs" />
+    <Compile Include="Models\ViewModels\HomeView.cs" />
     <Compile Include="Models\ViewModels\NavbarView.cs" />
     <Compile Include="Models\ViewModels\QuizView.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -1180,7 +1192,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Content\Images\" />
-    <Folder Include="Extension\" />
     <Folder Include="Templates\Admin\plugins\ckeditor\plugins\about\dialogs\hidpi\" />
     <Folder Include="Templates\Admin\plugins\datatables-\extensions\FixedColumns\examples\integration\" />
     <Folder Include="Templates\Admin\plugins\datatables-\extensions\KeyTable\" />
@@ -1227,6 +1238,7 @@
     <Folder Include="Templates\Admin\plugins\viewport-\" />
     <Folder Include="Templates\Admin\plugins\viewport\" />
     <Folder Include="Templates\Home\" />
+    <Folder Include="Views\Base\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Proiect-MRSTW\EnglishCourses.BusinessLogic\EnglishCourses.BusinessLogic.csproj">
