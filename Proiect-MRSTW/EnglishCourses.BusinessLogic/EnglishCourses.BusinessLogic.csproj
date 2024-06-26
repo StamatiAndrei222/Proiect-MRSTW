@@ -55,7 +55,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BussinesLogical.cs" />
+    <Compile Include="Core\UserAPI.cs" />
     <Compile Include="DBContext\CourseContext.cs" />
+    <Compile Include="DBContext\UserContext.cs" />
     <Compile Include="Interface\IAdministration.cs" />
     <Compile Include="Interface\IService.cs" />
     <Compile Include="Interface\ISession.cs" />
@@ -72,7 +74,6 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Core\" />
     <Folder Include="MainBL\" />
   </ItemGroup>
   <ItemGroup>
