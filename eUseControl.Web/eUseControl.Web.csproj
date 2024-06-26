@@ -183,6 +183,7 @@
     <Compile Include="Attributes\UserAttribute.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\LoginController.cs" />
+    <Compile Include="Controllers\RegistrationController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -197,6 +198,7 @@
     <Compile Include="Models\Course\EditCourse.cs" />
     <Compile Include="Models\Course\RegisterCourse.cs" />
     <Compile Include="Models\User\UserLogin.cs" />
+    <Compile Include="Models\User\UserRegistration.cs" />
     <Compile Include="Models\ViewModels\CourseContentView.cs" />
     <Compile Include="Models\ViewModels\CourseDetailsView.cs" />
     <Compile Include="Models\ViewModels\CourseSuggestionView.cs" />
@@ -241,6 +243,7 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="Content\Images\" />
     <Folder Include="Extension\" />
     <Folder Include="QuizHelper\" />
     <Folder Include="Templates\Admin\" />
