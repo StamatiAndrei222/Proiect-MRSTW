@@ -71,7 +71,9 @@
     <Compile Include="Entities\Course\CourseDbTable.cs" />
     <Compile Include="Entities\Course\EditCourseData.cs" />
     <Compile Include="Entities\Course\RegisterCourseData.cs" />
+    <Compile Include="Entities\Responses\QuizResponse.cs" />
     <Compile Include="Entities\Responses\Response.cs" />
+    <Compile Include="Entities\Responses\SearchResponse.cs" />
     <Compile Include="Entities\Teacher\EditTeacherData.cs" />
     <Compile Include="Entities\Teacher\RegisterTeacherData.cs" />
     <Compile Include="Entities\Teacher\TeacherDbTable.cs" />

@@ -3,6 +3,29 @@
   "WorkspaceRootPath": "D:\\uni an 2\\sem 2\\ProiectGit\\Proiect-MRSTW\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{ADED6522-BFC1-4FA6-B732-049B8E9B539F}|..\\eUseControl.Web\\eUseControl.Web.csproj|d:\\uni an 2\\sem 2\\proiectgit\\eusecontrol.web\\models\\quiz\\quizmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADED6522-BFC1-4FA6-B732-049B8E9B539F}|..\\eUseControl.Web\\eUseControl.Web.csproj|d:\\uni an 2\\sem 2\\proiectgit\\eusecontrol.web\\models\\viewmodels\\quizview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADED6522-BFC1-4FA6-B732-049B8E9B539F}|..\\eUseControl.Web\\eUseControl.Web.csproj|d:\\uni an 2\\sem 2\\proiectgit\\eusecontrol.web\\models\\quiz\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADED6522-BFC1-4FA6-B732-049B8E9B539F}|..\\eUseControl.Web\\eUseControl.Web.csproj|d:\\uni an 2\\sem 2\\proiectgit\\eusecontrol.web\\quizhelper\\calculatescore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADED6522-BFC1-4FA6-B732-049B8E9B539F}|..\\eUseControl.Web\\eUseControl.Web.csproj|d:\\uni an 2\\sem 2\\proiectgit\\eusecontrol.web\\models\\quiz\\quizquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5135AEF5-9A50-478A-BFDA-31A64FE31365}|EnglishCourses.Domain\\EnglishCourses.Domain.csproj|d:\\uni an 2\\sem 2\\proiectgit\\proiect-mrstw\\englishcourses.domain\\entities\\responses\\searchresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5135AEF5-9A50-478A-BFDA-31A64FE31365}|EnglishCourses.Domain\\EnglishCourses.Domain.csproj|solutionrelative:englishcourses.domain\\entities\\responses\\searchresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5135AEF5-9A50-478A-BFDA-31A64FE31365}|EnglishCourses.Domain\\EnglishCourses.Domain.csproj|d:\\uni an 2\\sem 2\\proiectgit\\proiect-mrstw\\englishcourses.domain\\entities\\responses\\quizresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5135AEF5-9A50-478A-BFDA-31A64FE31365}|EnglishCourses.Domain\\EnglishCourses.Domain.csproj|solutionrelative:englishcourses.domain\\entities\\responses\\quizresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{ADED6522-BFC1-4FA6-B732-049B8E9B539F}|..\\eUseControl.Web\\eUseControl.Web.csproj|d:\\uni an 2\\sem 2\\proiectgit\\eusecontrol.web\\models\\teacher\\teacherbrief.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -12,19 +35,19 @@
       "AbsoluteMoniker": "D:0:0:{ADED6522-BFC1-4FA6-B732-049B8E9B539F}|..\\eUseControl.Web\\eUseControl.Web.csproj|d:\\uni an 2\\sem 2\\proiectgit\\eusecontrol.web\\models\\teacher\\editteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5135AEF5-9A50-478A-BFDA-31A64FE31365}|EnglishCourses.Domain\\EnglishCourses.Domain.csproj|d:\\uni an 2\\sem 2\\proiectgit\\proiect-mrstw\\englishcourses.domain\\entities\\teacher\\teacherdbtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5135AEF5-9A50-478A-BFDA-31A64FE31365}|EnglishCourses.Domain\\EnglishCourses.Domain.csproj|D:\\uni an 2\\sem 2\\ProiectGit\\Proiect-MRSTW\\englishcourses.domain\\entities\\teacher\\teacherdbtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5135AEF5-9A50-478A-BFDA-31A64FE31365}|EnglishCourses.Domain\\EnglishCourses.Domain.csproj|solutionrelative:englishcourses.domain\\entities\\teacher\\teacherdbtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5135AEF5-9A50-478A-BFDA-31A64FE31365}|EnglishCourses.Domain\\EnglishCourses.Domain.csproj|d:\\uni an 2\\sem 2\\proiectgit\\proiect-mrstw\\englishcourses.domain\\entities\\teacher\\registerteacherdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5135AEF5-9A50-478A-BFDA-31A64FE31365}|EnglishCourses.Domain\\EnglishCourses.Domain.csproj|D:\\uni an 2\\sem 2\\ProiectGit\\Proiect-MRSTW\\englishcourses.domain\\entities\\teacher\\registerteacherdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5135AEF5-9A50-478A-BFDA-31A64FE31365}|EnglishCourses.Domain\\EnglishCourses.Domain.csproj|solutionrelative:englishcourses.domain\\entities\\teacher\\registerteacherdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5135AEF5-9A50-478A-BFDA-31A64FE31365}|EnglishCourses.Domain\\EnglishCourses.Domain.csproj|d:\\uni an 2\\sem 2\\proiectgit\\proiect-mrstw\\englishcourses.domain\\entities\\teacher\\editteacherdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5135AEF5-9A50-478A-BFDA-31A64FE31365}|EnglishCourses.Domain\\EnglishCourses.Domain.csproj|D:\\uni an 2\\sem 2\\ProiectGit\\Proiect-MRSTW\\englishcourses.domain\\entities\\teacher\\editteacherdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5135AEF5-9A50-478A-BFDA-31A64FE31365}|EnglishCourses.Domain\\EnglishCourses.Domain.csproj|solutionrelative:englishcourses.domain\\entities\\teacher\\editteacherdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45E68582-445A-4B1B-84D4-07A66A5F5C90}|EnglishCourses.BusinessLogic\\EnglishCourses.BusinessLogic.csproj|d:\\uni an 2\\sem 2\\proiectgit\\proiect-mrstw\\englishcourses.businesslogic\\dbcontext\\teachercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{45E68582-445A-4B1B-84D4-07A66A5F5C90}|EnglishCourses.BusinessLogic\\EnglishCourses.BusinessLogic.csproj|D:\\uni an 2\\sem 2\\ProiectGit\\Proiect-MRSTW\\englishcourses.businesslogic\\dbcontext\\teachercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{45E68582-445A-4B1B-84D4-07A66A5F5C90}|EnglishCourses.BusinessLogic\\EnglishCourses.BusinessLogic.csproj|solutionrelative:englishcourses.businesslogic\\dbcontext\\teachercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -153,7 +176,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -181,7 +204,98 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CalculateScore.cs",
+              "DocumentMoniker": "D:\\uni an 2\\sem 2\\ProiectGit\\eUseControl.Web\\QuizHelper\\CalculateScore.cs",
+              "RelativeDocumentMoniker": "..\\eUseControl.Web\\QuizHelper\\CalculateScore.cs",
+              "ToolTip": "D:\\uni an 2\\sem 2\\ProiectGit\\eUseControl.Web\\QuizHelper\\CalculateScore.cs",
+              "RelativeToolTip": "..\\eUseControl.Web\\QuizHelper\\CalculateScore.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T16:30:21.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QuizView.cs",
+              "DocumentMoniker": "D:\\uni an 2\\sem 2\\ProiectGit\\eUseControl.Web\\Models\\ViewModels\\QuizView.cs",
+              "RelativeDocumentMoniker": "..\\eUseControl.Web\\Models\\ViewModels\\QuizView.cs",
+              "ToolTip": "D:\\uni an 2\\sem 2\\ProiectGit\\eUseControl.Web\\Models\\ViewModels\\QuizView.cs",
+              "RelativeToolTip": "..\\eUseControl.Web\\Models\\ViewModels\\QuizView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T16:25:31.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Score.cs",
+              "DocumentMoniker": "D:\\uni an 2\\sem 2\\ProiectGit\\eUseControl.Web\\Models\\Quiz\\Score.cs",
+              "RelativeDocumentMoniker": "..\\eUseControl.Web\\Models\\Quiz\\Score.cs",
+              "ToolTip": "D:\\uni an 2\\sem 2\\ProiectGit\\eUseControl.Web\\Models\\Quiz\\Score.cs",
+              "RelativeToolTip": "..\\eUseControl.Web\\Models\\Quiz\\Score.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T16:23:45.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "QuizQuestion.cs",
+              "DocumentMoniker": "D:\\uni an 2\\sem 2\\ProiectGit\\eUseControl.Web\\Models\\Quiz\\QuizQuestion.cs",
+              "RelativeDocumentMoniker": "..\\eUseControl.Web\\Models\\Quiz\\QuizQuestion.cs",
+              "ToolTip": "D:\\uni an 2\\sem 2\\ProiectGit\\eUseControl.Web\\Models\\Quiz\\QuizQuestion.cs",
+              "RelativeToolTip": "..\\eUseControl.Web\\Models\\Quiz\\QuizQuestion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T16:23:30.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "QuizModel.cs",
+              "DocumentMoniker": "D:\\uni an 2\\sem 2\\ProiectGit\\eUseControl.Web\\Models\\Quiz\\QuizModel.cs",
+              "RelativeDocumentMoniker": "..\\eUseControl.Web\\Models\\Quiz\\QuizModel.cs",
+              "ToolTip": "D:\\uni an 2\\sem 2\\ProiectGit\\eUseControl.Web\\Models\\Quiz\\QuizModel.cs",
+              "RelativeToolTip": "..\\eUseControl.Web\\Models\\Quiz\\QuizModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T16:23:03.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SearchResponse.cs",
+              "DocumentMoniker": "D:\\uni an 2\\sem 2\\ProiectGit\\Proiect-MRSTW\\EnglishCourses.Domain\\Entities\\Responses\\SearchResponse.cs",
+              "RelativeDocumentMoniker": "EnglishCourses.Domain\\Entities\\Responses\\SearchResponse.cs",
+              "ToolTip": "D:\\uni an 2\\sem 2\\ProiectGit\\Proiect-MRSTW\\EnglishCourses.Domain\\Entities\\Responses\\SearchResponse.cs",
+              "RelativeToolTip": "EnglishCourses.Domain\\Entities\\Responses\\SearchResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T16:21:22.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "QuizResponse.cs",
+              "DocumentMoniker": "D:\\uni an 2\\sem 2\\ProiectGit\\Proiect-MRSTW\\EnglishCourses.Domain\\Entities\\Responses\\QuizResponse.cs",
+              "RelativeDocumentMoniker": "EnglishCourses.Domain\\Entities\\Responses\\QuizResponse.cs",
+              "ToolTip": "D:\\uni an 2\\sem 2\\ProiectGit\\Proiect-MRSTW\\EnglishCourses.Domain\\Entities\\Responses\\QuizResponse.cs",
+              "RelativeToolTip": "EnglishCourses.Domain\\Entities\\Responses\\QuizResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T16:21:05.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "TeacherBrief.cs",
               "DocumentMoniker": "D:\\uni an 2\\sem 2\\ProiectGit\\eUseControl.Web\\Models\\Teacher\\TeacherBrief.cs",
               "RelativeDocumentMoniker": "..\\eUseControl.Web\\Models\\Teacher\\TeacherBrief.cs",
@@ -194,7 +308,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "RegisterTeacher.cs",
               "DocumentMoniker": "D:\\uni an 2\\sem 2\\ProiectGit\\eUseControl.Web\\Models\\Teacher\\RegisterTeacher.cs",
               "RelativeDocumentMoniker": "..\\eUseControl.Web\\Models\\Teacher\\RegisterTeacher.cs",
@@ -202,12 +316,11 @@
               "RelativeToolTip": "..\\eUseControl.Web\\Models\\Teacher\\RegisterTeacher.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T16:16:20.819Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-26T16:16:20.819Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "EditTeacher.cs",
               "DocumentMoniker": "D:\\uni an 2\\sem 2\\ProiectGit\\eUseControl.Web\\Models\\Teacher\\EditTeacher.cs",
               "RelativeDocumentMoniker": "..\\eUseControl.Web\\Models\\Teacher\\EditTeacher.cs",
@@ -215,12 +328,11 @@
               "RelativeToolTip": "..\\eUseControl.Web\\Models\\Teacher\\EditTeacher.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T16:16:07.316Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-26T16:16:07.316Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "TeacherDbTable.cs",
               "DocumentMoniker": "D:\\uni an 2\\sem 2\\ProiectGit\\Proiect-MRSTW\\EnglishCourses.Domain\\Entities\\Teacher\\TeacherDbTable.cs",
               "RelativeDocumentMoniker": "EnglishCourses.Domain\\Entities\\Teacher\\TeacherDbTable.cs",
@@ -228,12 +340,11 @@
               "RelativeToolTip": "EnglishCourses.Domain\\Entities\\Teacher\\TeacherDbTable.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T16:13:28.013Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-26T16:13:28.013Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "RegisterTeacherData.cs",
               "DocumentMoniker": "D:\\uni an 2\\sem 2\\ProiectGit\\Proiect-MRSTW\\EnglishCourses.Domain\\Entities\\Teacher\\RegisterTeacherData.cs",
               "RelativeDocumentMoniker": "EnglishCourses.Domain\\Entities\\Teacher\\RegisterTeacherData.cs",
@@ -241,12 +352,11 @@
               "RelativeToolTip": "EnglishCourses.Domain\\Entities\\Teacher\\RegisterTeacherData.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T16:13:10.04Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-26T16:13:10.04Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "EditTeacherData.cs",
               "DocumentMoniker": "D:\\uni an 2\\sem 2\\ProiectGit\\Proiect-MRSTW\\EnglishCourses.Domain\\Entities\\Teacher\\EditTeacherData.cs",
               "RelativeDocumentMoniker": "EnglishCourses.Domain\\Entities\\Teacher\\EditTeacherData.cs",
@@ -254,12 +364,11 @@
               "RelativeToolTip": "EnglishCourses.Domain\\Entities\\Teacher\\EditTeacherData.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T16:12:53.954Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-26T16:12:53.954Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
               "Title": "TeacherContext.cs",
               "DocumentMoniker": "D:\\uni an 2\\sem 2\\ProiectGit\\Proiect-MRSTW\\EnglishCourses.BusinessLogic\\DBContext\\TeacherContext.cs",
               "RelativeDocumentMoniker": "EnglishCourses.BusinessLogic\\DBContext\\TeacherContext.cs",
@@ -267,12 +376,11 @@
               "RelativeToolTip": "EnglishCourses.BusinessLogic\\DBContext\\TeacherContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T16:11:02.197Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-26T16:11:02.197Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 15,
               "Title": "index.html",
               "DocumentMoniker": "D:\\uni an 2\\sem 2\\ProiectGit\\eUseControl.Web\\Templates\\Admin\\plugins\\ckeditor\\samples\\toolbarconfigurator\\index.html",
               "RelativeDocumentMoniker": "..\\eUseControl.Web\\Templates\\Admin\\plugins\\ckeditor\\samples\\toolbarconfigurator\\index.html",
@@ -284,7 +392,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 14,
               "Title": "index.html",
               "DocumentMoniker": "D:\\uni an 2\\sem 2\\ProiectGit\\eUseControl.Web\\Templates\\Admin\\plugins\\ckeditor\\samples\\toolbarconfigurator\\lib\\index.html",
               "RelativeDocumentMoniker": "..\\eUseControl.Web\\Templates\\Admin\\plugins\\ckeditor\\samples\\toolbarconfigurator\\lib\\index.html",
@@ -292,12 +400,11 @@
               "RelativeToolTip": "..\\eUseControl.Web\\Templates\\Admin\\plugins\\ckeditor\\samples\\toolbarconfigurator\\lib\\index.html",
               "ViewState": "AQIAAIoBAAAAAAAAAAAiwJcBAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-06-26T14:33:06.378Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-26T14:33:06.378Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 16,
               "Title": "font-awesome.min.css",
               "DocumentMoniker": "D:\\uni an 2\\sem 2\\ProiectGit\\eUseControl.Web\\Templates\\Admin\\fonts\\font-awesome\\css\\font-awesome.min.css",
               "RelativeDocumentMoniker": "..\\eUseControl.Web\\Templates\\Admin\\fonts\\font-awesome\\css\\font-awesome.min.css",
@@ -309,7 +416,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 17,
               "Title": "font-awesome.css",
               "DocumentMoniker": "D:\\uni an 2\\sem 2\\ProiectGit\\eUseControl.Web\\Templates\\Admin\\fonts\\font-awesome\\css\\font-awesome.css",
               "RelativeDocumentMoniker": "..\\eUseControl.Web\\Templates\\Admin\\fonts\\font-awesome\\css\\font-awesome.css",
@@ -321,7 +428,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 18,
               "Title": "index.html",
               "DocumentMoniker": "D:\\uni an 2\\sem 2\\ProiectGit\\eUseControl.Web\\Templates\\Admin\\fonts\\font-awesome\\index.html",
               "RelativeDocumentMoniker": "..\\eUseControl.Web\\Templates\\Admin\\fonts\\font-awesome\\index.html",
@@ -333,7 +440,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 19,
               "Title": "index.html",
               "DocumentMoniker": "D:\\uni an 2\\sem 2\\ProiectGit\\eUseControl.Web\\Templates\\Admin\\fonts\\index.html",
               "RelativeDocumentMoniker": "..\\eUseControl.Web\\Templates\\Admin\\fonts\\index.html",
@@ -345,7 +452,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 21,
               "Title": "style.css",
               "DocumentMoniker": "D:\\uni an 2\\sem 2\\ProiectGit\\eUseControl.Web\\Templates\\Admin\\css\\style.css",
               "RelativeDocumentMoniker": "..\\eUseControl.Web\\Templates\\Admin\\css\\style.css",
@@ -357,7 +464,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 22,
               "Title": "animate.min.css",
               "DocumentMoniker": "D:\\uni an 2\\sem 2\\ProiectGit\\eUseControl.Web\\Templates\\Admin\\css\\animate.min.css",
               "RelativeDocumentMoniker": "..\\eUseControl.Web\\Templates\\Admin\\css\\animate.min.css",
@@ -369,7 +476,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 20,
               "Title": "responsive.css",
               "DocumentMoniker": "D:\\uni an 2\\sem 2\\ProiectGit\\eUseControl.Web\\Templates\\Admin\\css\\responsive.css",
               "RelativeDocumentMoniker": "..\\eUseControl.Web\\Templates\\Admin\\css\\responsive.css",
@@ -381,7 +488,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 23,
               "Title": "index.html",
               "DocumentMoniker": "D:\\uni an 2\\sem 2\\ProiectGit\\eUseControl.Web\\Templates\\Admin\\css\\index.html",
               "RelativeDocumentMoniker": "..\\eUseControl.Web\\Templates\\Admin\\css\\index.html",
@@ -393,7 +500,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 24,
               "Title": "index.html",
               "DocumentMoniker": "D:\\uni an 2\\sem 2\\ProiectGit\\eUseControl.Web\\Templates\\Admin\\index.html",
               "RelativeDocumentMoniker": "..\\eUseControl.Web\\Templates\\Admin\\index.html",
@@ -405,7 +512,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 25,
               "Title": "LoginController.cs",
               "DocumentMoniker": "D:\\uni an 2\\sem 2\\ProiectGit\\eUseControl.Web\\Controllers\\LoginController.cs",
               "RelativeDocumentMoniker": "..\\eUseControl.Web\\Controllers\\LoginController.cs",
@@ -417,7 +524,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 26,
               "Title": "UserLogin.cs",
               "DocumentMoniker": "D:\\uni an 2\\sem 2\\ProiectGit\\eUseControl.Web\\Models\\User\\UserLogin.cs",
               "RelativeDocumentMoniker": "..\\eUseControl.Web\\Models\\User\\UserLogin.cs",
@@ -429,7 +536,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 27,
               "Title": "UserAttribute.cs",
               "DocumentMoniker": "D:\\uni an 2\\sem 2\\ProiectGit\\eUseControl.Web\\Attributes\\UserAttribute.cs",
               "RelativeDocumentMoniker": "..\\eUseControl.Web\\Attributes\\UserAttribute.cs",
@@ -441,7 +548,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 28,
               "Title": "UserMinimal.cs",
               "DocumentMoniker": "D:\\uni an 2\\sem 2\\ProiectGit\\Proiect-MRSTW\\EnglishCourses.Domain\\Entities\\User\\UserMinimal.cs",
               "RelativeDocumentMoniker": "EnglishCourses.Domain\\Entities\\User\\UserMinimal.cs",
@@ -453,7 +560,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 29,
               "Title": "URegisterData.cs",
               "DocumentMoniker": "D:\\uni an 2\\sem 2\\ProiectGit\\Proiect-MRSTW\\EnglishCourses.Domain\\Entities\\User\\URegisterData.cs",
               "RelativeDocumentMoniker": "EnglishCourses.Domain\\Entities\\User\\URegisterData.cs",
@@ -465,7 +572,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 30,
               "Title": "ULoginData.cs",
               "DocumentMoniker": "D:\\uni an 2\\sem 2\\ProiectGit\\Proiect-MRSTW\\EnglishCourses.Domain\\Entities\\User\\ULoginData.cs",
               "RelativeDocumentMoniker": "EnglishCourses.Domain\\Entities\\User\\ULoginData.cs",
@@ -477,7 +584,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 31,
               "Title": "UDbTable.cs",
               "DocumentMoniker": "D:\\uni an 2\\sem 2\\ProiectGit\\Proiect-MRSTW\\EnglishCourses.Domain\\Entities\\User\\UDbTable.cs",
               "RelativeDocumentMoniker": "EnglishCourses.Domain\\Entities\\User\\UDbTable.cs",
@@ -489,7 +596,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 32,
               "Title": "Session.cs",
               "DocumentMoniker": "D:\\uni an 2\\sem 2\\ProiectGit\\Proiect-MRSTW\\EnglishCourses.Domain\\Entities\\User\\Session.cs",
               "RelativeDocumentMoniker": "EnglishCourses.Domain\\Entities\\User\\Session.cs",
@@ -501,7 +608,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 33,
               "Title": "UserContext.cs",
               "DocumentMoniker": "D:\\uni an 2\\sem 2\\ProiectGit\\Proiect-MRSTW\\EnglishCourses.BusinessLogic\\DBContext\\UserContext.cs",
               "RelativeDocumentMoniker": "EnglishCourses.BusinessLogic\\DBContext\\UserContext.cs",
@@ -513,7 +620,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 34,
               "Title": "UserAPI.cs",
               "DocumentMoniker": "D:\\uni an 2\\sem 2\\ProiectGit\\Proiect-MRSTW\\EnglishCourses.BusinessLogic\\Core\\UserAPI.cs",
               "RelativeDocumentMoniker": "EnglishCourses.BusinessLogic\\Core\\UserAPI.cs",
@@ -525,7 +632,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 35,
               "Title": "_Navbar.cshtml",
               "DocumentMoniker": "D:\\uni an 2\\sem 2\\ProiectGit\\eUseControl.Web\\Views\\Shared\\HomeLayout\\_Navbar.cshtml",
               "RelativeDocumentMoniker": "..\\eUseControl.Web\\Views\\Shared\\HomeLayout\\_Navbar.cshtml",
@@ -537,7 +644,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 36,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\uni an 2\\sem 2\\ProiectGit\\eUseControl.Web\\Views\\Shared\\HomeLayout\\_Layout.cshtml",
               "RelativeDocumentMoniker": "..\\eUseControl.Web\\Views\\Shared\\HomeLayout\\_Layout.cshtml",
@@ -549,7 +656,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 37,
               "Title": "_Footer.cshtml",
               "DocumentMoniker": "D:\\uni an 2\\sem 2\\ProiectGit\\eUseControl.Web\\Views\\Shared\\HomeLayout\\_Footer.cshtml",
               "RelativeDocumentMoniker": "..\\eUseControl.Web\\Views\\Shared\\HomeLayout\\_Footer.cshtml",
@@ -561,7 +668,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 38,
               "Title": "_Topbar.cshtml",
               "DocumentMoniker": "D:\\uni an 2\\sem 2\\ProiectGit\\eUseControl.Web\\Views\\Shared\\AdminLayout\\_Topbar.cshtml",
               "RelativeDocumentMoniker": "..\\eUseControl.Web\\Views\\Shared\\AdminLayout\\_Topbar.cshtml",
@@ -573,7 +680,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 39,
               "Title": "_Sidebar.cshtml",
               "DocumentMoniker": "D:\\uni an 2\\sem 2\\ProiectGit\\eUseControl.Web\\Views\\Shared\\AdminLayout\\_Sidebar.cshtml",
               "RelativeDocumentMoniker": "..\\eUseControl.Web\\Views\\Shared\\AdminLayout\\_Sidebar.cshtml",
@@ -585,7 +692,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 40,
               "Title": "_AdminLayout.cshtml",
               "DocumentMoniker": "D:\\uni an 2\\sem 2\\ProiectGit\\eUseControl.Web\\Views\\Shared\\AdminLayout\\_AdminLayout.cshtml",
               "RelativeDocumentMoniker": "..\\eUseControl.Web\\Views\\Shared\\AdminLayout\\_AdminLayout.cshtml",
@@ -597,7 +704,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 41,
               "Title": "Register.cshtml",
               "DocumentMoniker": "D:\\uni an 2\\sem 2\\ProiectGit\\eUseControl.Web\\Views\\Registration\\Register.cshtml",
               "RelativeDocumentMoniker": "..\\eUseControl.Web\\Views\\Registration\\Register.cshtml",
@@ -609,7 +716,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 42,
               "Title": "Login.cshtml",
               "DocumentMoniker": "D:\\uni an 2\\sem 2\\ProiectGit\\eUseControl.Web\\Views\\Login\\Login.cshtml",
               "RelativeDocumentMoniker": "..\\eUseControl.Web\\Views\\Login\\Login.cshtml",
@@ -621,7 +728,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 43,
               "Title": "TakeQuiz.cshtml",
               "DocumentMoniker": "D:\\uni an 2\\sem 2\\ProiectGit\\eUseControl.Web\\Views\\Home\\TakeQuiz.cshtml",
               "RelativeDocumentMoniker": "..\\eUseControl.Web\\Views\\Home\\TakeQuiz.cshtml",
@@ -633,7 +740,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 44,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\uni an 2\\sem 2\\ProiectGit\\eUseControl.Web\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "..\\eUseControl.Web\\Views\\Home\\Index.cshtml",
@@ -645,7 +752,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 45,
               "Title": "CourseSuggestion.cshtml",
               "DocumentMoniker": "D:\\uni an 2\\sem 2\\ProiectGit\\eUseControl.Web\\Views\\Home\\CourseSuggestion.cshtml",
               "RelativeDocumentMoniker": "..\\eUseControl.Web\\Views\\Home\\CourseSuggestion.cshtml",
@@ -657,7 +764,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 46,
               "Title": "Courses.cshtml",
               "DocumentMoniker": "D:\\uni an 2\\sem 2\\ProiectGit\\eUseControl.Web\\Views\\Home\\Courses.cshtml",
               "RelativeDocumentMoniker": "..\\eUseControl.Web\\Views\\Home\\Courses.cshtml",
@@ -669,7 +776,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 47,
               "Title": "CourseDetails.cshtml",
               "DocumentMoniker": "D:\\uni an 2\\sem 2\\ProiectGit\\eUseControl.Web\\Views\\Home\\CourseDetails.cshtml",
               "RelativeDocumentMoniker": "..\\eUseControl.Web\\Views\\Home\\CourseDetails.cshtml",
@@ -681,7 +788,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 48,
               "Title": "CourseContent.cshtml",
               "DocumentMoniker": "D:\\uni an 2\\sem 2\\ProiectGit\\eUseControl.Web\\Views\\Home\\CourseContent.cshtml",
               "RelativeDocumentMoniker": "..\\eUseControl.Web\\Views\\Home\\CourseContent.cshtml",
@@ -693,7 +800,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 49,
               "Title": "EditTeacher.cshtml",
               "DocumentMoniker": "D:\\uni an 2\\sem 2\\ProiectGit\\eUseControl.Web\\Views\\Admin\\EditTeacher.cshtml",
               "RelativeDocumentMoniker": "..\\eUseControl.Web\\Views\\Admin\\EditTeacher.cshtml",
@@ -705,7 +812,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 50,
               "Title": "CourseDetails.cshtml",
               "DocumentMoniker": "D:\\uni an 2\\sem 2\\ProiectGit\\eUseControl.Web\\Views\\Admin\\CourseDetails.cshtml",
               "RelativeDocumentMoniker": "..\\eUseControl.Web\\Views\\Admin\\CourseDetails.cshtml",
