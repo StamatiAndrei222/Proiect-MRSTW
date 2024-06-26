@@ -52,6 +52,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Entities\CourseChapter\ChapterDbTable.cs" />
+    <Compile Include="Entities\CourseChapter\EditChapterData.cs" />
+    <Compile Include="Entities\CourseChapter\RegisterChapterData.cs" />
     <Compile Include="Entities\Course\CourseDbTable.cs" />
     <Compile Include="Entities\Course\EditCourseData.cs" />
     <Compile Include="Entities\Course\RegisterCourseData.cs" />
