@@ -73,6 +73,7 @@
     <Compile Include="Core\UserAPI.cs" />
     <Compile Include="DBContext\CourseContext.cs" />
     <Compile Include="DBContext\SessionContext.cs" />
+    <Compile Include="DBContext\TeacherContext.cs" />
     <Compile Include="DBContext\UserContext.cs" />
     <Compile Include="Interface\IAdministration.cs" />
     <Compile Include="Interface\IService.cs" />

@@ -1090,6 +1090,9 @@
     <Compile Include="Models\Course\CourseSuggestionModel.cs" />
     <Compile Include="Models\Course\EditCourse.cs" />
     <Compile Include="Models\Course\RegisterCourse.cs" />
+    <Compile Include="Models\Teacher\EditTeacher.cs" />
+    <Compile Include="Models\Teacher\RegisterTeacher.cs" />
+    <Compile Include="Models\Teacher\TeacherBrief.cs" />
     <Compile Include="Models\User\UserLogin.cs" />
     <Compile Include="Models\User\UserRegistration.cs" />
     <Compile Include="Models\ViewModels\CourseContentView.cs" />
